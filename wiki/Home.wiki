@@ -19,6 +19,7 @@ This template provides the following functional features:
  * Support for end to end customization according to own requirements.
  * Customizable Theme
  * Common site content (Header, Footer) customizable by administrator.
+ * Easy enhancement support for developers.
  
 == Setup Guide ==
 
