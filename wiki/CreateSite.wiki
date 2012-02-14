@@ -1,0 +1,10 @@
+#summary This page guides you with the creation of Small Business Site using the provided custom Template.
+
+= Creating the Site =
+
+  # Open !SharePoint Central Administration by going to the path Start -> All Programs -> Microsoft !SharePoint 2010 Products -> !SharePoint 2010 Central Administration.
+  # Click *Create Site Collection* link under the *Application Management* tab. Create Site collection page opens up.
+  # Change the Web Application to select the web application to which the template has been deployed. (As shown in the screenshot below)<br/>http://visual-studio-sharepoint-project-template.googlecode.com/svn/wiki/Images/ChangeWebApp.jpg<br>
+  # Provide a Title, Description and URL for your site to be created (As shown in the screenshot below)<br/>http://visual-studio-sharepoint-project-template.googlecode.com/svn/wiki/Images/TitleDescURL.jpg<br>
+  # In the Template selection section, select *!BrickRed* Tab, which will display the *!BrickRed Small Business Template* as the selected one. Set the primary and secondary site collection administrators.<br/>http://visual-studio-sharepoint-project-template.googlecode.com/svn/wiki/Images/TemplateSelection.jpg<br>
+  # Click OK. This will create the site using the custom template.
