@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="LayoutPages" Url="Pages">   
+    <File Path="LayoutPages\AboutUs.aspx" Url="AboutUs.aspx" Type="GhostableInLibrary">
+      <Property Name="Title" Value="About Us" />
+      <Property Name="PublishingPageImage" Value="&lt;img alt=&quot;Welcome&quot; src=&quot;~SiteCollection/PublishingImages/AboutUsBanner.jpg&quot; &gt;"></Property>
+      <Property Name="PublishingPageContent" Value="&lt;div align=&quot;justify&quot;&gt;&lt;table&gt;
+                &lt;tr&gt;
+                  &lt;td class=&quot;sp4-pageTitle&quot; &gt;
+                      &lt;strong&gt;About Us&lt;/strong&gt;
+                   &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                  &lt;td&gt;
+                    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis turpis eros, mattis et vestibulum in, suscipit et metus. Duis nec placerat felis. Nam eget pulvinar sem. Sed dictum gravida lobortis. Phasellus ut pretium diam. Vestibulum vel velit magna, congue sollicitudin orci. Donec quis mauris at ante volutpat ornare. Nulla metus enim, fringilla at eleifend a, pulvinar a turpis. Sed ut laoreet libero. Ut ipsum felis, varius eget pharetra et, mattis vitae augue. Aliquam erat volutpat. Quisque viverra turpis ut lorem gravida accumsan. Integer est risus, aliquam eget convallis id, malesuada vitae nunc. Ut eu ipsum velit, eget semper dui. &lt;/p&gt;
+                    &lt;p&gt;Suspendisse laoreet, nulla vitae volutpat commodo, nulla nunc porta risus, eget laoreet nunc augue in felis. Quisque sed felis felis, a dictum felis. Nullam vulputate rhoncus odio, vitae tincidunt nisl vehicula eget. Donec porttitor ante orci, nec luctus elit. Vivamus massa augue, consectetur in tempus sit amet, rhoncus tristique neque. Nam elit nibh, euismod auctor tristique ut, tincidunt sed nibh. Duis tempor, dui sit amet condimentum ullamcorper, eros risus interdum nulla, ut facilisis sapien neque nec urna. Suspendisse urna lorem, rutrum ac varius vel, tempor eget risus. Suspendisse potenti. Etiam tempus gravida erat, ut commodo leo vulputate non. Praesent et risus nisl. Mauris pharetra pellentesque enim, non pulvinar tortor eleifend congue.&lt;/p&gt;
+                    &lt;p&gt;Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum. Donec nec nisl dolor. Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. Suspendisse vehicula porta urna, ac lobortis nisl viverra at. Curabitur ac velit nibh. Mauris molestie, nibh quis vestibulum fringilla, arcu eros hendrerit mi, id tempor odio lacus in quam. Mauris tristique urna eget est condimentum mattis. Sed nec lacus massa, ut dignissim elit. Vivamus augue libero, varius dictum pretium quis, auctor eget urna. Donec semper luctus dolor, at dapibus nunc fermentum a.&lt;/p&gt;
+                    &lt;p&gt;Proin rutrum, tellus cursus viverra rhoncus, magna justo rhoncus mauris, sed commodo augue risus non dolor. Donec id odio nisi, sit amet interdum mauris. Praesent et arcu felis. In quam tortor, malesuada eget auctor ac, mattis sit amet augue. Donec imperdiet, metus in fringilla aliquam, dolor turpis scelerisque mi, sed euismod quam tellus at erat. Ut mollis justo non ligula volutpat laoreet. Etiam adipiscing turpis at arcu auctor semper. Suspendisse luctus, libero aliquet ornare blandit, felis lorem convallis augue, quis sagittis lacus felis id turpis. Fusce eleifend lectus facilisis velit mollis dictum. Nunc sodales convallis aliquam. Donec a felis ante. &lt;/p&gt;
+                    &lt;p&gt;Fusce vel ipsum at odio tempus auctor. Sed auctor neque accumsan risus aliquam quis adipiscing urna posuere. Nam eget suscipit nunc. Etiam leo dui, placerat eu mattis ut, pellentesque eget tellus. Pellentesque euismod nunc sed quam aliquet eget sollicitudin velit ullamcorper. Nullam tempus lacinia euismod. Donec id lacinia ligula. Integer sed vulputate ante. &lt;/p&gt;
+                  &lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/table&gt;&lt;/div&gt;"></Property>     
+      <Property Name="PublishingPageLayout"
+                    Value="~SiteCollection/_catalogs/masterpage/BrickRedSmallBusinessInnerPageLayout.aspx, Inner Page" />
+      <Property Name="ContentType" Value="BrickRed Small Business" /> 
+      <AllUsersWebPart WebPartZoneID="Right" WebPartOrder="1">
+        <![CDATA[
+ <webParts>
+         <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BrickRed.Templates.SmallBusiness.ContactUsWebPart.ContactUsWebPart, BrickRed.Templates.SmallBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dd88d6021363d679" />      
+      <importErrorMessage>Cannot import Contact Us Web Part. Please contact administrator.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Query Us</property>
+        <property name="Description" type="string">Description for Contact Us Web part</property>
+      </properties>
+    </data>
+  </webPart>
+        </webParts>
+             ]]>
+      </AllUsersWebPart>
+    </File>
+    <File Path="LayoutPages\Services.aspx" Url="Services.aspx" Type="GhostableInLibrary">
+      <Property Name="Title" Value="Services" />
+      <Property Name="PublishingPageImage" Value="&lt;img alt=&quot;Welcome&quot; src=&quot;~SiteCollection/PublishingImages/ServciesBanner.jpg&quot; &gt;"></Property>
+      <Property Name="PublishingPageContent" Value="&lt;div align=&quot;justify&quot;&gt;&lt;table&gt;
+                &lt;tr&gt;
+                  &lt;td class=&quot;sp4-pageTitle&quot; &gt;
+                    &lt;strong&gt;Our Services&lt;/strong&gt;
+                  &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                  &lt;td&gt;
+                      &lt;div class=&quot;sp4-pageSubTitle&quot; &gt;Lorem ipsum&lt;/div&gt;
+                      &lt;div&gt;
+                        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis turpis eros, mattis et vestibulum in, suscipit et metus. Duis nec placerat felis. Nam eget pulvinar sem. Sed dictum gravida lobortis. Phasellus ut pretium diam. Vestibulum vel velit magna, congue sollicitudin orci. Donec quis mauris at ante volutpat ornare. Nulla metus enim, fringilla at eleifend a, pulvinar a turpis. Sed ut laoreet libero. Ut ipsum felis, varius eget pharetra et, mattis vitae augue. Aliquam erat volutpat. Quisque viverra turpis ut lorem gravida accumsan. Integer est risus, aliquam eget convallis id, malesuada vitae nunc. Ut eu ipsum velit, eget semper dui. &lt;/p&gt;
+                        &lt;p&gt;Suspendisse laoreet, nulla vitae volutpat commodo, nulla nunc porta risus, eget laoreet nunc augue in felis. Quisque sed felis felis, a dictum felis. Nullam vulputate rhoncus odio, vitae tincidunt nisl vehicula eget. Donec porttitor ante orci, nec luctus elit. Vivamus massa augue, consectetur in tempus sit amet, rhoncus tristique neque. Nam elit nibh, euismod auctor tristique ut, tincidunt sed nibh. Duis tempor, dui sit amet condimentum ullamcorper, eros risus interdum nulla, ut facilisis sapien neque nec urna. Suspendisse urna lorem, rutrum ac varius vel, tempor eget risus. Suspendisse potenti. Etiam tempus gravida erat, ut commodo leo vulputate non. Praesent et risus nisl. Mauris pharetra pellentesque enim, non pulvinar tortor eleifend congue. &lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div&gt;
+                      &lt;span class=&quot;sp4-pageSubTitle&quot;&gt;Suspendisse laoreet&lt;/span&gt;&lt;/br&gt;
+                      &lt;p&gt;Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum. Donec nec nisl dolor. Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. Suspendisse vehicula porta urna, ac lobortis nisl viverra at. Curabitur ac velit nibh. Mauris molestie, nibh quis vestibulum fringilla, arcu eros hendrerit mi, id tempor odio lacus in quam. Mauris tristique urna eget est condimentum mattis. Sed nec lacus massa, ut dignissim elit. Vivamus augue libero, varius dictum pretium quis, auctor eget urna. Donec semper luctus dolor, at dapibus nunc fermentum a.&lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div&gt;
+                      &lt;span class=&quot;sp4-pageSubTitle&quot;&gt;Integer commodo&lt;/span&gt;&lt;/br&gt;
+                      &lt;p&gt;Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum. Donec nec nisl dolor. Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. Suspendisse vehicula porta urna, ac lobortis nisl viverra at. Curabitur ac velit nibh. Mauris molestie, nibh quis vestibulum fringilla, arcu eros hendrerit mi, id tempor odio lacus in quam. Mauris tristique urna eget est condimentum mattis. Sed nec lacus massa, ut dignissim elit. Vivamus augue libero, varius dictum pretium quis, auctor eget urna. Donec semper luctus dolor, at dapibus nunc fermentum a. &lt;/p&gt;
+                    &lt;/div&gt;
+                    &lt;div&gt;
+                      &lt;table class=&quot;content_table&quot;&gt;
+                        &lt;tbody&gt;
+                          &lt;tr class=&quot;content_tr_titles&quot;&gt;
+                            &lt;td class=&quot;content_td_title&quot; align=&quot;left&quot; width=&quot;16%&quot; valign=&quot;top&quot;&gt;Proin rutrum&lt;&lt;/td&gt;
+                            &lt;td class=&quot;content_td_title&quot; width=&quot;22%&quot; valign=&quot;top&quot;&gt;viverra rhoncus&lt;/td&gt;
+                            &lt;td class=&quot;content_td_title&quot; width=&quot;40%&quot; valign=&quot;top&quot;&gt;Fusce vel ipsum&lt;/td&gt;
+                            &lt;td class=&quot;content_td_title&quot; width=&quot;22%&quot; valign=&quot;top&quot;&gt;tempus auctor&lt;/td&gt;
+                          &lt;/tr&gt;
+                          &lt;tr class=&quot;content_tr_odd&quot;&gt;
+                            &lt;td class=&quot;content_td&quot; align=&quot;left&quot; valign=&quot;top&quot;&gt;Mauris tristique&lt;/td&gt;
+                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;rhoncus mauris&lt;/td&gt;
+                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;
+                              &lt;ul class=&quot;newOL&quot;&gt;
+                                &lt;li&gt;Suspendisse luctus&lt;/li&gt;
+                                &lt;li&gt;libero aliquet&lt;/li&gt;
+                                &lt;li&gt;ornare blandit&lt;/li&gt;
+                                &lt;li&gt;felis lorem&lt;/li&gt;
+                              &lt;/ul&gt;
+                            &lt;/td&gt;
+                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;Nullam tempus lacinia euismod&lt;/td&gt;
+                          &lt;/tr&gt;
+                          &lt;tr class=&quot;content_tr_even&quot;&gt;
+                            &lt;td class=&quot;content_td&quot; align=&quot;left&quot; valign=&quot;top&quot;&gt;Suspendisse potent&lt;/td&gt;
+                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;Etiam tempus&lt;/td&gt;
+                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;
+                              &lt;ul class=&quot;newOL&quot;&gt;
+                                &lt;li&gt;Praesent et risus nisl.&lt;/li&gt;
+                                &lt;li&gt;Mauris pharetra pellentesque enim&lt;/li&gt;
+                                &lt;li&gt;non pulvinar tortor eleifend congue&lt;/li&gt;
+                                &lt;li&gt;nteger commodo dui id nulla accumsan&lt;/li&gt;
+                              &lt;/ul&gt;
+                            &lt;/td&gt;
+                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;
+                              &lt;ul class=&quot;newOL&quot;&gt;
+                                &lt;li&gt;Curabitur ac &lt;/li&gt;
+                                &lt;li&gt;velit nibh&lt;/li&gt;
+                                &lt;li&gt;Mauris molestie&lt;/li&gt;
+                              &lt;/ul&gt;
+                            &lt;/td&gt;
+                          &lt;/tr&gt;
+                        &lt;/tbody&gt;
+                      &lt;/table&gt;
+                    &lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/table&gt;&lt;/div&gt;"></Property>
+      <Property Name="PublishingPageLayout"
+                    Value="~SiteCollection/_catalogs/masterpage/BrickRedSmallBusinessInnerPageLayout.aspx, Inner Page" />
+      <Property Name="ContentType" Value="BrickRed Small Business" /> 
+      <AllUsersWebPart WebPartZoneID="Right" WebPartOrder="1">
+        <![CDATA[
+ <webParts>
+         <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BrickRed.Templates.SmallBusiness.ContactUsWebPart.ContactUsWebPart, BrickRed.Templates.SmallBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dd88d6021363d679" />      
+      <importErrorMessage>Cannot import Contact Us Web Part. Please contact administrator.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Query Us</property>
+        <property name="Description" type="string">Description for Contact Us Web part</property>
+      </properties>
+    </data>
+  </webPart>
+        </webParts>
+             ]]>
+      </AllUsersWebPart>
+    </File>
+    <File Path="LayoutPages\ContactUs.aspx" Url="ContactUs.aspx" Type="GhostableInLibrary">
+      <Property Name="Title" Value="Contact Us" />
+      <Property Name="PublishingPageImage" Value="&lt;img alt=&quot;Welcome&quot; src=&quot;~SiteCollection/PublishingImages/ContactUsBanner.jpg&quot; &gt;"></Property>
+      <Property Name="PublishingPageContent" Value="&lt;table width=&quot;100%&quot;&gt;
+                &lt;tbody&gt;
+                  &lt;tr&gt;
+                    &lt;td colspan=&quot;3&quot; class=&quot;sp4-pageTitle&quot;&gt;
+                      &lt;strong&gt; Our Office Locations&lt;/strong&gt;
+                    &lt;/td&gt;
+                  &lt;/tr&gt;
+                  &lt;tr&gt;
+                    &lt;td colspan=&quot;3&quot;&gt;
+                     &lt;img title=&quot;Worldwide locations&quot; alt=&quot;Worldwide locations&quot; src=&quot;~site/PublishingImages/worldwideLocationsMap.jpg&quot;&gt; 
+                    &lt;/td&gt;
+                  &lt;/tr&gt;
+                  &lt;tr&gt;
+                    &lt;td valign=&quot;top&quot; width=&quot;49%&quot;&gt;
+                      &lt;p&gt;
+                        &lt;img title=&quot;Location 1&quot; alt=&quot;Location 1&quot; src=&quot;~site/PublishingImages/ContactUs_img1.jpg&quot;&gt;
+                      &lt;/p&gt;
+                      &lt;h2&gt;
+                        &lt;img title=&quot;USA&quot; alt=&quot;USA&quot; src=&quot;~site/PublishingImages/usa.gif&quot;&gt;
+                        &lt;strong&gt;Location 1&lt;/strong&gt;                      
+                      &lt;/h2&gt;
+                      &lt;p&gt;
+                      1234 ABC Lane
+                      &lt;br&gt;
+                      Drive 1234
+                      &lt;br&gt;
+                      Location 1
+                      &lt;br&gt;
+                      Phone: +1.234.567.8901
+                      &lt;/p&gt;
+                    &lt;/td&gt;   
+                    &lt;td width=&quot;2%&quot;&gt;&lt;/td&gt;  
+                    &lt;td valign=&quot;top&quot; width=&quot;49%&quot;&gt;
+                      &lt;p&gt;
+                        &lt;img title=&quot;Location 2&quot; alt=&quot;Location 2&quot; src=&quot;~site/PublishingImages/ContactUs_img2.jpg&quot;&gt;
+                      &lt;/p&gt;
+                      &lt;h2&gt;
+                        &lt;img title=&quot;USA&quot; alt=&quot;USA&quot; src=&quot;~site/PublishingImages/usa.gif&quot;&gt;
+                        &lt;strong&gt;Location 2&lt;/strong&gt;                       
+                      &lt;/h2&gt;
+                      &lt;p&gt;
+                      1234 ABC Lane
+                      &lt;br&gt;
+                      Drive 12345
+                      &lt;br&gt;
+                      Location 2
+                      &lt;br&gt;
+                      Phone: +1.234.567.8901
+                      &lt;/p&gt;
+                    &lt;/td&gt;       
+                  &lt;/tr&gt;
+                  &lt;tr&gt;
+                    &lt;td height=&quot;20&quot; colspan=&quot;3&quot;&gt;&lt;/td&gt;
+                  &lt;/tr&gt;
+                  &lt;tr&gt;
+                    &lt;td valign=&quot;top&quot; width=&quot;49%&quot;&gt;
+                      &lt;p&gt;
+                        &lt;img title=&quot;Location 3&quot; alt=&quot;Location 3&quot; src=&quot;~site/PublishingImages/ContactUs_img3.jpg&quot;&gt;
+                      &lt;/p&gt;
+                      &lt;h2&gt;
+                        &lt;img title=&quot;UK&quot; alt=&quot;UK&quot; src=&quot;~site/PublishingImages/uk.gif&quot;&gt;
+                        &lt;strong&gt;Location 3&lt;/strong&gt;                      
+                      &lt;/h2&gt;
+                      &lt;p&gt;
+                      1234 ABC Lane
+                      &lt;br&gt;
+                      Location 3
+                      &lt;br&gt;
+                      Phone: +44.123.456.7890
+                      &lt;/p&gt;
+                    &lt;/td&gt;
+                    &lt;td width=&quot;2%&quot;&gt;&lt;/td&gt;
+                    &lt;td valign=&quot;top&quot; width=&quot;49%&quot;&gt;
+                      &lt;p&gt;
+                        &lt;img title=&quot;Location 4&quot; alt=&quot;Location 4&quot; src=&quot;~site/PublishingImages/ContactUs_img4.jpg&quot;&gt;
+                      &lt;/p&gt;
+                      &lt;h2&gt;
+                        &lt;img title=&quot;Netherland&quot; alt=&quot;Netherland&quot; src=&quot;~site/PublishingImages/Netherlands.gif&quot;&gt;
+                        &lt;strong&gt;Location 4&lt;/strong&gt;                       
+                      &lt;/h2&gt;
+                      &lt;p&gt;
+                      1234 ABC Lane
+                      &lt;br&gt;
+                      Location 4
+                      &lt;br&gt;
+                      Phone: +31.12.345.6789
+                      &lt;/p&gt;
+                    &lt;/td&gt;
+                  &lt;/tr&gt;
+                  &lt;tr&gt;
+                    &lt;td height=&quot;20&quot; colspan=&quot;3&quot;&gt;&lt;/td&gt;
+                  &lt;/tr&gt;
+                  &lt;tr&gt;
+                    &lt;td valign=&quot;top&quot; width=&quot;49%&quot;&gt;
+                      &lt;p&gt;
+                        &lt;img title=&quot;Location 5&quot; alt=&quot;Location 5&quot; src=&quot;~site/PublishingImages/ContactUs_img5.jpg&quot;&gt;
+                      &lt;/p&gt;
+                      &lt;h2&gt;
+                        &lt;img title=&quot;India&quot; alt=&quot;India&quot; src=&quot;~site/PublishingImages/India.gif&quot;&gt;
+                        &lt;strong&gt;Location 5&lt;/strong&gt;                       
+                      &lt;/h2&gt;
+                      &lt;p&gt;
+                      1234 ABC Lane
+                      &lt;br&gt;
+                      Location 5
+                      &lt;br&gt;
+                      Phone: +91.123.4567.890
+                      &lt;br&gt;
+                      Fax: +91.123.4567.890
+                      &lt;/p&gt;
+                    &lt;/td&gt;
+                    &lt;td width=&quot;2%&quot;&gt;&lt;/td&gt;
+                    &lt;td valign=&quot;top&quot; width=&quot;49%&quot;&gt;
+                      &lt;p&gt;
+                        &lt;img title=&quot;Location 6&quot; alt=&quot;Location 6&quot; src=&quot;~site/PublishingImages/ContactUs_img6.jpg&quot;&gt;
+                      &lt;/p&gt;
+                      &lt;h2&gt;
+                        &lt;img title=&quot;Romania&quot; alt=&quot;Romania&quot; src=&quot;~site/PublishingImages/romania.gif&quot;&gt;
+                        &lt;strong&gt;Location 6&lt;/strong&gt;                        
+                      &lt;/h2&gt;
+                      &lt;p&gt;
+                      1234 ABC Lane
+                      &lt;br&gt;
+                      Location 6
+                      &lt;/p&gt;
+                    &lt;/td&gt;
+                  &lt;/tr&gt;
+                &lt;/tbody&gt;
+              &lt;/table&gt;"></Property>
+      <Property Name="PublishingPageLayout"
+                   Value="~SiteCollection/_catalogs/masterpage/BrickRedSmallBusinessInnerPageLayout.aspx, Inner Page" />
+      <Property Name="ContentType" Value="BrickRedSmallBusinessContentType" />       
+      <AllUsersWebPart WebPartZoneID="Right" WebPartOrder="1">
+        <![CDATA[
+ <webParts>
+         <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BrickRed.Templates.SmallBusiness.ContactUsWebPart.ContactUsWebPart, BrickRed.Templates.SmallBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dd88d6021363d679" />      
+      <importErrorMessage>Cannot import Contact Us Web Part. Please contact administrator.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Query Us</property>
+        <property name="Description" type="string">Description for Contact Us Web part</property>
+      </properties>
+    </data>
+  </webPart>
+        </webParts>
+             ]]>
+      </AllUsersWebPart>    
+    </File>
+    <File Path="LayoutPages\Home.aspx" Url="Home.aspx" Type="GhostableInLibrary" NavBarHome="True">
+      <Property Name="Title" Value="Home" />
+      <Property Name="PublishingPageImage" Value="&lt;img alt=&quot;Welcome&quot; src=&quot;~SiteCollection/PublishingImages/HomeBanner.jpg&quot; &gt;"></Property>    
+      <Property Name="PublishingPageLayout"
+                   Value="~SiteCollection/_catalogs/masterpage/BrickRedSmallBusinessHomePageLayout.aspx, Home Page" />
+      <Property Name="ContentType" Value="BrickRed Small Business" />
+      <AllUsersWebPart WebPartZoneID="Left" WebPartOrder="1">
+        <![CDATA[
+          <WebPart xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/WebPart/v2">
+            <Title>About Us</Title>
+            <FrameType>TitleBarOnly</FrameType>
+            <Description>About Us Web Part</Description>
+            <FrameState>Normal</FrameState>
+            <Assembly>Microsoft.SharePoint, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+            <TypeName>Microsoft.SharePoint.WebPartPages.ContentEditorWebPart</TypeName>
+            <ContentLink xmlns="http://schemas.microsoft.com/WebPart/v2/ContentEditor" />
+            <Content xmlns="http://schemas.microsoft.com/WebPart/v2/ContentEditor">
+              &lt;table width=&quot;100%&quot; cellpadding=&quot;5&quot; &gt;
+                &lt;tr&gt;
+                  &lt;td height=&quot;200&quot; &gt;                   
+                    &lt;div align=&quot;justify&quot;&gt;
+                      &lt;ul&gt;
+                        &lt;li&gt;Suspendisse laoreet, nulla vitae volutpat commodo, nulla nunc porta risus&lt;/li&gt;
+                        &lt;li&gt;Eget laoreet nunc augue in felis. Quisque sed felis felis, a dictum felis&lt;/li&gt;
+                        &lt;li&gt;Nullam vulputate rhoncus odio, vitae tincidunt nisl vehicula eget.&lt;/li&gt;
+                        &lt;li&gt;Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. &lt;/li&gt;
+                        &lt;li&gt;Ut dignissim elit. Vivamus augue libero, varius.&lt;/li&gt;
+                        &lt;li&gt;Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. &lt;/li&gt;
+                        &lt;li&gt;Suspendisse laoreet, nulla vitae volutpat commodo, nulla nunc porta risus, eget laoreet nunc augue in felis&lt;/li&gt;
+                        &lt;li&gt;Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum&lt;/li&gt;
+                      &lt;/ul&gt;
+                    &lt;/div&gt;
+                    &lt;/br&gt;
+                    &lt;div align=&quot;right&quot;&gt;
+                      &lt;A title="More..." href="~site/Pages/AboutUs.aspx" target=""&gt;More...&lt;/A&gt;
+                    &lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/table&gt;
+            </Content>
+            <PartStorage xmlns="http://schemas.microsoft.com/WebPart/v2/ContentEditor" />
+          </WebPart>
+          ]]>
+      </AllUsersWebPart>    
+      <AllUsersWebPart WebPartZoneID="Center" WebPartOrder="1">
+        <![CDATA[
+          <WebPart xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/WebPart/v2">
+            <Title>Services</Title>
+            <FrameType>TitleBarOnly</FrameType>
+            <Description>Services web part</Description>
+            <FrameState>Normal</FrameState>
+            <Assembly>Microsoft.SharePoint, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+            <TypeName>Microsoft.SharePoint.WebPartPages.ContentEditorWebPart</TypeName>
+            <ContentLink xmlns="http://schemas.microsoft.com/WebPart/v2/ContentEditor" />
+            <Content xmlns="http://schemas.microsoft.com/WebPart/v2/ContentEditor">
+                 &lt;table width=&quot;100%&quot; cellpadding=&quot;5&quot; &gt;
+                &lt;tr&gt;
+                  &lt;td height=&quot;200&quot;&gt;                    
+                    &lt;div align=&quot;justify&quot;&gt;
+                       &lt;ul&gt;
+                        &lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis turpis eros, mattis et vestibulum in, suscipit et metus. Duis nec placerat felis.&lt;/li&gt;
+                        &lt;li&gt;Suspendisse laoreet, nulla vitae volutpat commodo, nulla nunc porta risus, eget laoreet nunc augue in felis&lt;/li&gt;
+                        &lt;li&gt;Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum&lt;/li&gt;
+                        &lt;li&gt;Donec porttitor ante orci, nec luctus elit&lt;/li&gt;
+                        &lt;li&gt;Vivamus massa augue, consectetur in tempus sit amet&lt;/li&gt;
+                        &lt;li&gt;Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. &lt;/li&gt;
+                        &lt;li&gt;Suspendisse laoreet, nulla vitae volutpat commodo, nulla nunc porta risus, eget laoreet nunc augue in felis&lt;/li&gt;
+                        &lt;li&gt;Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum&lt;/li&gt;
+                      &lt;/ul&gt;
+                    &lt;/div&gt;
+                    &lt;/br&gt;
+                    &lt;div align=&quot;right&quot;&gt;
+                      &lt;A title="More..." href="~site/Pages/Services.aspx" target=""&gt;More...&lt;/A&gt;
+                    &lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/table&gt;             
+            </Content>
+            <PartStorage xmlns="http://schemas.microsoft.com/WebPart/v2/ContentEditor" />
+          </WebPart>
+          ]]>
+      </AllUsersWebPart>
+      <AllUsersWebPart WebPartZoneID="Right" WebPartOrder="1">
+        <![CDATA[
+ <webParts>
+         <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BrickRed.Templates.SmallBusiness.ContactUsWebPart.ContactUsWebPart, BrickRed.Templates.SmallBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dd88d6021363d679" />      
+      <importErrorMessage>Cannot import Contact Us Web Part. Please contact administrator.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Query Us</property>
+        <property name="Description" type="string">Description for Contact Us Web part</property>      
+      </properties>
+    </data>
+  </webPart>
+        </webParts>
+             ]]>
+      </AllUsersWebPart>
+    </File>
+    <File Path="LayoutPages\Thanks.aspx" Url="Thanks.aspx" Type="GhostableInLibrary">
+      <Property Name="Title" Value="Thanks" />
+      <Property Name="IncludeInGlobalNavigation" Value="False" />
+      <Property Name="PublishingPageImage" Value="&lt;img alt=&quot;Welcome&quot; src=&quot;~SiteCollection/PublishingImages/ThankyouBanner.jpg&quot; &gt;"></Property>
+      <Property Name="PublishingPageContent" Value="&lt;div align=&quot;justify&quot;&gt;&lt;table&gt;
+                &lt;tr&gt;
+                  &lt;td class=&quot;sp4-pageTitle&quot; &gt;
+                      &lt;strong&gt;Thanks&lt;/strong&gt;
+                   &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                  &lt;td&gt;
+                    &lt;p&gt;Your inquiry has been received and will be handled quickly and appropriately. &lt;/p&gt;
+                    &lt;p&gt;If you sent your inquiry during standard business hours we try our best to reply to all inquiries before we leave for the day. If you sent your inquiry while we are not in the office, we will get back to you as quickly as possible the next business day.&lt;/p&gt;
+                  &lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/table&gt;&lt;/div&gt;"></Property>
+      <Property Name="PublishingPageLayout"
+                   Value="~SiteCollection/_catalogs/masterpage/BrickRedSmallBusinessInnerPageLayout.aspx, Inner Page" />
+      <Property Name="ContentType" Value="BrickRed Small Business" />
+      <AllUsersWebPart WebPartZoneID="Right" WebPartOrder="1">
+        <![CDATA[
+          <WebPart xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/WebPart/v2">
+          <Title>ImageWebPart</Title>
+          <FrameType>None</FrameType>
+          <Description>Use to display pictures and photos.</Description>
+          <IsIncluded>true</IsIncluded>
+          <ZoneID>Left</ZoneID>
+          <PartOrder>0</PartOrder>
+          <FrameState>Normal</FrameState>
+          <Height />
+          <Width />
+          <AllowRemove>true</AllowRemove>
+          <AllowZoneChange>true</AllowZoneChange>
+          <AllowMinimize>true</AllowMinimize>
+          <AllowConnect>true</AllowConnect>
+          <AllowEdit>true</AllowEdit>
+          <AllowHide>true</AllowHide>
+          <IsVisible>true</IsVisible>
+          <DetailLink />
+          <HelpLink />
+          <HelpMode>Modeless</HelpMode>
+          <Dir>Default</Dir>
+          <PartImageSmall />
+          <MissingAssembly>Cannot import this Web Part.</MissingAssembly>
+          <PartImageLarge />
+          <IsIncludedFilter />
+          <Assembly>Microsoft.SharePoint, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+          <TypeName>Microsoft.SharePoint.WebPartPages.ImageWebPart</TypeName>
+          <ImageLink xmlns="http://schemas.microsoft.com/WebPart/v2/Image">~site/PublishingImages/ThanksImg.jpg</ImageLink>
+          <AlternativeText xmlns="http://schemas.microsoft.com/WebPart/v2/Image" />
+          <VerticalAlignment xmlns="http://schemas.microsoft.com/WebPart/v2/Image">Middle</VerticalAlignment>
+          <HorizontalAlignment xmlns="http://schemas.microsoft.com/WebPart/v2/Image">Center</HorizontalAlignment>
+          <BackgroundColor xmlns="http://schemas.microsoft.com/WebPart/v2/Image">transparent</BackgroundColor>
+        </WebPart>
+         ]]>
+      </AllUsersWebPart>
+    </File>
+</Module>
+</Elements>
