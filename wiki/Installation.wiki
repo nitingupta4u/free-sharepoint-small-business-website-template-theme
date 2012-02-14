@@ -6,7 +6,7 @@
   # Visual Studio 2010 (To Customize the template)
 
 == Template Installation ==
-  # Download ZIP package from [http://code.google.com/p/visual-studio-sharepoint-project-template/downloads/detail?name=SharePoint%20Project%20Template%20C%23%201.0.vsix&can=2&q=#makechanges here]
+  # Download ZIP package from [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/downloads/detail?name=SmallBusinessTemplate.zip&can=2&q= here]
   # This package contains a WSP file and a *Install.bat* Batch file to add and deploy the wsp to !SharePoint.
   # Edit the Install.bat file and update the *SITE-URL* parameter to specify the web application url to deploy the package to. Save and close the file.
   # Execute the Install.bat file. The package will be added and deployed to the site specified in the bat file. Refer to the screenshot below:<br/>	[http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/AddDeploy.jpg]
