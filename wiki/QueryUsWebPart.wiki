@@ -23,7 +23,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   * Send me a copy: The user browsing the site can check this option in order to receive a confirmation mail of his query being sent to site administrator.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/QueryUsFields.jpg
 
-= Mails sent =
+= Sending Emails =
 
   * There are 2 types of mails being sent in this web part
   * First, mail is sent to administrators and users specified in the web part properties
