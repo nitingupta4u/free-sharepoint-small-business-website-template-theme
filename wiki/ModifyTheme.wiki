@@ -1,16 +1,12 @@
-#summary One-sentence summary of this page.
+#summary This page guides the user on how to change the Theme applied on the site including changing colors and fonts.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Theme.jpg
 
-= Introduction =
+= How to update the colors and fonts on site =
 
-Add your content here.
+Follow the below mentioned steps to modify the colors or fonts on the site.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
+  # Click on Site Actions -> Site Settings
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
+  # 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
