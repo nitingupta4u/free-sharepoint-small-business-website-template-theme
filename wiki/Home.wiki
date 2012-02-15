@@ -33,8 +33,8 @@ This template provides the following functional features:
 
 == !RoadMaps ==
 
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Developer !RoadMap]
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap End User / Administrator !RoadMap]
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Developer RoadMap]
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap End User / Administrator RoadMap]
 
 ==Share it with your friends!!!==
 <wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/113501407083818715381/Opti365ShareWebpageHelper.xml" border="0"/>
