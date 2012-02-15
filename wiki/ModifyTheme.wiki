@@ -6,7 +6,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 Follow the below mentioned steps to modify the colors or fonts on the site.
 
   # Click on Site Actions -> Site Settings
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
-  # 
+  http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
+  # s
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
