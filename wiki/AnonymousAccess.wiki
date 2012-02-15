@@ -28,3 +28,5 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous5.jpg
   * From there select Entire Web Site and click OK.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous6.jpg
+
+That’s all you have to do, now the site will be available for browsing by anyone
