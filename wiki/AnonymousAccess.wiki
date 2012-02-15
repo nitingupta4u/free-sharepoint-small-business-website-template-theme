@@ -32,4 +32,4 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 That’s all you have to do, now the site will be available for browsing by anyone.
 
 ----
-[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User !RoadMap]
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
