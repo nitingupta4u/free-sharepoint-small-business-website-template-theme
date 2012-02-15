@@ -1,7 +1,17 @@
 #summary This page describes how to update page content of the site
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/updatePagecontent.jpg
 
 = Introduction =
 
 The content on the site pages is simple plain text that can be edited directly using the browser by the Administrator.
 
 = How to Update the page Content =
+
+  * Browse to the site, logged in as Administrator.
+  * Click on Site Actions -> Edit Page 
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/EditPage.jpg 
+  * The text on the page becomes editable within the browser itself.
+  * Update the text. 
+  * Click *Check In* Button within the Page Tab. 
+  * Enter Check In comments when prompted to.
+  * You will be able to see the page with updated content.
