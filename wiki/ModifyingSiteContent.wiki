@@ -12,6 +12,9 @@ The content on the site pages is simple plain text that can be edited directly u
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/EditPage.jpg 
   * The text on the page becomes editable within the browser itself.
   * Update the text. 
-  * Click *Check In* Button within the Page Tab. 
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/UpdateContent.jpg
+  * Click *Check In* Button within the Page Tab.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CheckIn.jpg 
   * Enter Check In comments when prompted to.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CheckInComments.jpg
   * You will be able to see the page with updated content.
