@@ -1,9 +1,19 @@
 #summary This page guides how to create new Site pages using our custom page layouts defined within this template.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/newPage.jpg
 
-= Introduction =
+= Available Custom layouts =
 
-Add your content here.
+There are 2 custom page layouts available in this template. They are as follows:
+  * Home Page - template for home page of the site (Home)
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/HomePageLayout.jpg
+
+  * Inner Page - template for inner pages (AboutUs, ContactUs, Services, Thanks)
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/InnerPageLayout.jpg
+
+
+Available Custom layouts
+Create new page using custom layout
+Change existing page layout
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
