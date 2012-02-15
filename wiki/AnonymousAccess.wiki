@@ -10,3 +10,11 @@ Anonymous Access gives users access to a web site without prompting them for a u
 Anonymous Access is required on Small Business Site, so that the end users can browse through the company profile and strategies without logging onto the site. This is generally the case with company websites showcasing the company details.
 
 = Enable anonymous access on the site =
+
+Enabling anonymous access on a SharePoint site has 2 steps:
+
+  # Turn on Anonymous access on Web Application
+  
+  * The process begins in Central Administration.
+  * Click on Manage Web Applications and select your web application from the list and take a look at the ribbon:
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous.jpg
