@@ -20,6 +20,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   # A popup window opens up. Enter the page name (Say ... Strategies). Click Create.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/NewPagePopUp.jpg
   # Page is created with Inner Page layout as that is the default page layout for this site as defined in the template.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DefaultPageLayout.jpg
   # Content can be added to this page accordingly.
 
 = Change existing page layout =
