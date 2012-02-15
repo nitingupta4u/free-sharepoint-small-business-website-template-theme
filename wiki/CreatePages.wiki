@@ -16,7 +16,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 In order to create a new site page using the above page layouts, follow the steps as mentioned below:
 
   # Click Site Actions -> New Page
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CreateNewPage.jpg<br/>
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CreateNewPage.jpg
   # A popup window opens up. Enter the page name (Say ... Strategies). Click Create.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/NewPagePopUp.jpg
   # Page is created with Inner Page layout as that is the default page layout for this site as defined in the template.
