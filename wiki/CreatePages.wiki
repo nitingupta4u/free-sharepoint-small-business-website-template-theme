@@ -30,6 +30,8 @@ Suppose We need to change the page layout of the above created page to Home Page
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/EditPage.jpg
   # Click the Page Tab; Select Page Layout button; Select Home Page, and that will apply the new page layout to the strategies page. Check in and Publish the page and your page with the new page layout will appear to everyone.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ChangePageLayout.jpg
-  
+
+The new template would look as displayed in the below screenshot:
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ChangedLayout.jpg  
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
