@@ -21,7 +21,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   * Email: Email address of the user submitting the query
   * Your Requirement: The actual query of the user browsing the site
   * Send me a copy: The user browsing the site can check this option in order to receive a confirmation mail of his query being sent to site administrator.
-
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/QueryUsFields.jpg
 
 
 ----
