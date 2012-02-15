@@ -17,4 +17,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CheckIn.jpg 
   * Enter Check In comments when prompted to.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CheckInComments.jpg
-  * You will be able to see the page with updated content.
+  Publish the page so that changes are approved and are visible to all users. Click on Publish Button within Publish Tab
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Publish.jpg
+
+You will be able to see the page with updated content.
