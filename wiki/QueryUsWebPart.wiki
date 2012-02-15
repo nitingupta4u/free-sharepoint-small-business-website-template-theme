@@ -11,7 +11,7 @@
   * There are 2 properties in this web part that the Site administrator can configure.
   * First, *Send Mail to Administrators* - Checked by default, this sends the user query mail to site administrators.
   * Second, *CC Mail to these users* - Administrator can enter comma separated email addresses, to whom the user query is also sent.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/QueryUsProperties.png
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/QueryUsProperties.jpg
 
 
 
