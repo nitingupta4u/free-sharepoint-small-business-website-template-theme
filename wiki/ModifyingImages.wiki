@@ -26,3 +26,5 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/testURL.jpg 
   # Click Ok and you will be taken back to the Site Settings page where you should now see your logo displayed in the top of the site!
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/logoChanged.jpg 
+
+Similarly other site images can be modified according to the requirements.
