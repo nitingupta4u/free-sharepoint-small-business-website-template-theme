@@ -1,5 +1,5 @@
 #summary This page guides about how to update the header and footer information which is being stored in the Configuration List.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/administrators.png
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/configuration.jpg
 
 = What is Configuration List =
 
@@ -9,9 +9,17 @@ Configuration List is a list that is storing the following content of the site i
   # Admin Email content and subject
   # Self Email content and subject
 
-= Update Header Content =
+= Update Header & Footer Content =
 
-We are fetching the header and footer content from the configuration list itself.
+  # Go to Site Actions -> View All Site Content -> Configurations
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ConfigurationsList.jpg
+  # This list contains the HTML values for footer and header as shown in the screenshot.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ConfigHtmls.jpg
+  # Check the checkbox next to ContactUs list item. Select Edit Item button in the ribbon. 
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/updateHeader.jpg
+  # Say, we have updated the values of contact email id as admin@mycompany.com. On Saving the value, the header is reflected with the updated value.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/HeaderValueReflected.jpg
 
+Similarly, the value of footer can be changed and updated to reflect the new HTML stored in the configurations list under the footer list item.
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
