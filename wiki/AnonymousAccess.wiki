@@ -11,7 +11,7 @@ Anonymous Access is required on Small Business Site, so that the end users can b
 
 = Enable anonymous access on the site =
 
-Enabling anonymous access on a SharePoint site has 2 steps:
+Enabling anonymous access on a !SharePoint site has 2 steps:
 
   # Turn on Anonymous access on Web Application
   
