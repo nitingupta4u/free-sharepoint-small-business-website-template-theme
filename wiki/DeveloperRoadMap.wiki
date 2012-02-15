@@ -1,13 +1,13 @@
 #summary One-sentence summary of this page.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SuccessfullDeveloper.jpg<br>
-= Introduction =
+= Developers Task list =
 
-Add your content here.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/administrators.png
 
+The following are the identified tasks that an end user or Administration can perform on the created site.
 
-= Details =
+  * Set Anonymous access on site
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Modifying Site Logo and other images
+
+  * Modifying Site Content
