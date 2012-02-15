@@ -14,5 +14,13 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
  http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ChangeFonts.jpg
   # The new selected font gets applied on the entire site and is visible to all the users.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/fontsApplied.jpg
+
+= How to revert back to Small Business Theme =
+
+  # Click on Site Actions -> Site Settings
+  # Under the *Look and Feel* section, click *Site Theme* option.
+  # Select the *BrickRed Small Business* under Themes section and click Apply.
+  # The original template theme is applied back on the site.
+
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
