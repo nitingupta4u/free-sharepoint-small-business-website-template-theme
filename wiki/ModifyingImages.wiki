@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary This page guides how to customize Site Images and Site logo.
 
 = Introduction =
 
