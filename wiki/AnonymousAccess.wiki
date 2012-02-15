@@ -18,3 +18,11 @@ Enabling anonymous access on a SharePoint site has 2 steps:
   * The process begins in Central Administration.
   * Click on Manage Web Applications and select your web application from the list and take a look at the ribbon:
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous.jpg
+  * Click Authentication Providers
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous.jpg
+  * From this menu you select an Authentication Provider
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous.jpg
+  * From the next menu you can check Enable anonymous access
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous.jpg
+  * After you click save, the web application will allow Anonymous access to be set, but you have to set this from the actual web application. So now, navigate to the top level site collection for the web application and click Site Actions > Site Settings > Site Permissions. From that menu you can click Anonymous Access:
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous.jpg
