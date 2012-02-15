@@ -2,7 +2,7 @@
 
 = Administrators / End Users Task list =
 
-||http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/administrators.png||http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/hands-raised.jpg||
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/administrators.png
 
 The following are the identified tasks that an end user or Administration can perform on the created site.
 
@@ -25,3 +25,5 @@ The following are the identified tasks that an end user or Administration can pe
   * Modify the theme.
 
   * Modify Site elements (!MasterPage, CSS, !JavaScript)
+
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/hands-raised.jpg
