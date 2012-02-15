@@ -1,6 +1,14 @@
-#summary One-sentence summary of this page.
+#summary This page provides help for Administrators / End Users to configure and use the site according to their business requirements.
 
-= Introduction =
+= End User Task list =
+
+  * Set Anonymous access on site
+  * Modifying Site Logo and other images
+  * Modifying Site Content
+  * Create internal pages using Custom Page layouts
+  * Using Configuration list to
+    # Update the Contact Us header value
+    # Update the footer value
 
 Add your content here.
 
