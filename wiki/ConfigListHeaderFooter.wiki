@@ -1,17 +1,17 @@
 #summary This page guides about how to update the header and footer information which is being stored in the Configuration List.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/administrators.png
 
-= Introduction =
+= What is Configuration List =
 
-Add your content here.
+Configuration List is a list that is storing the following content of the site in the form of HTML containing tokens that are dynamically replaced when user action takes place.
+  # Header information about contact details
+  # Footer information
+  # Admin Email content and subject
+  # Self Email content and subject
 
+= Update Header Content =
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+We are fetching the header and footer content from the configuration list itself.
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
