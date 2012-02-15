@@ -1,16 +1,18 @@
-#summary One-sentence summary of this page.
+#summary This page guides on how to make changes to the master page and css elements of the template.
 
-= Introduction =
+= Modifying the master page of the site =
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LookAndFeelLogo.jpg
 
-Add your content here.
+  # Click on Site Actions -> Site Settings
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
+  # Under the *Galleries* section, click on *Master pages and page layouts* link. 
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/MasterPageGallery.jpg
+  # This gallery contains the Custom master page - !BrickRed.SmallBusiness.Master, and the custom page layouts - BrickRedSmallBusinessHomePageLayout.aspx & BrickRedSmallBusinessInnerPageLayout.aspx
 
 
-= Details =
+= Applying a different master page on the site =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
