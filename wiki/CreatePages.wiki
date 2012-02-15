@@ -7,7 +7,7 @@ There are 2 custom page layouts available in this template. They are as follows:
   * Home Page - template for home page of the site (Home)
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/HomePageLayout.jpg
 
-  * Inner Page - template for inner pages (AboutUs, ContactUs, Services, Thanks)
+  * Inner Page - template for inner pages (!AboutUs, !ContactUs, Services, Thanks)
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/InnerPageLayout.jpg
 
 
