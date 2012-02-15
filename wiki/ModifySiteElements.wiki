@@ -7,7 +7,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
   # Under the *Galleries* section, click on *Master pages and page layouts* link. 
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/MasterPageGallery.jpg
-  # This gallery contains the Custom master page - !BrickRed.SmallBusiness.Master, and the custom page layouts - BrickRedSmallBusinessHomePageLayout.aspx & BrickRedSmallBusinessInnerPageLayout.aspx
+  # This gallery contains the *Custom master page - !BrickRed.SmallBusiness.Master*, and the *custom page layouts - !BrickRedSmallBusinessHomePageLayout.aspx & !BrickRedSmallBusinessInnerPageLayout.aspx*
 
 
 = Applying a different master page on the site =
