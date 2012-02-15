@@ -19,7 +19,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 
   # Click on Site Actions -> Site Settings
   # Under the *Look and Feel* section, click *Site Theme* option.
-  # Select the *BrickRed Small Business* under Themes section and click Apply.
+  # Select the *!BrickRed Small Business* under Themes section and click Apply.
   # The original template theme is applied back on the site.
 
 ----
