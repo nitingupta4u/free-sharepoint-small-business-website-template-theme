@@ -23,6 +23,16 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   * Send me a copy: The user browsing the site can check this option in order to receive a confirmation mail of his query being sent to site administrator.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/QueryUsFields.jpg
 
+= Mails sent =
+
+  * There are 2 types of mails being sent in this web part
+  * First, mail is sent to administrators and users specified in the web part properties
+  * Secondly, mail is sent to the user who is raising the query is he has checked the box in the web part fields (Send copy to me)
+  * The body templates for both these mails is stored as HTML in the *Configurations* list on the site.
+  * The Subjects for both these mails is stored as HTML in the *Configurations* list on the site.
+  * The HTML content in the list contains fixed tokens that are dynamically replaced by the user input in the web part fields.
+
+
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
