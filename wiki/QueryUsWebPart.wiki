@@ -13,6 +13,15 @@
   * Second, *CC Mail to these users* - Administrator can enter comma separated email addresses, to whom the user query is also sent.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/QueryUsProperties.jpg
 
+= Web Part Fields =
+
+  * Name: Name of the user submitting the query
+  * Company: Company of the user submitting the query
+  * Phone: Phone of the user submitting the query
+  * Email: Email address of the user submitting the query
+  * Your Requirement: The actual query of the user browsing the site
+  * Send me a copy: The user browsing the site can check this option in order to receive a confirmation mail of his query being sent to site administrator.
+
 
 
 ----
