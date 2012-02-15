@@ -1,13 +1,7 @@
-#summary One-sentence summary of this page.
+#summary This page describes how to update page content of the site
 
 = Introduction =
 
-Add your content here.
+The content on the site pages is simple plain text that can be edited directly using the browser by the Administrator.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= How to Update the page Content =
