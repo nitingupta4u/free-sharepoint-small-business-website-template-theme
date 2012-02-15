@@ -17,3 +17,12 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     * You can upload your custom images in this library.
 
 = Changing Site Logo =
+
+  # Click on Site Actions from the top left of the site and select Site Settings.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg 
+  # Click "Title, description, and icon" under the Look and Feel section on the Site Settings page
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LookAndFeel.jpg 
+  # Enter your logo URL location and a description – you can even click to test the URL to see if the address works.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/testURL.jpg 
+  # Click Ok and you will be taken back to the Site Settings page where you should now see your logo displayed in the top of the site!
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/logoChanged.jpg 
