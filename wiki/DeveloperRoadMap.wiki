@@ -13,6 +13,6 @@ The following links will help a Developer understand and customize the template.
 
   * Contact Us Header control and Footer Control using Configuration List
 
-  * Master Page, JavaScript, Theme & CSS Class
+  * Master Page, !JavaScript, Theme & CSS Class
 
   * Common code & Constants
