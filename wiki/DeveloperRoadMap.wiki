@@ -1,10 +1,9 @@
 #summary One-sentence summary of this page.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SuccessfullDeveloper.jpg<br>
 = Developers Task list =
 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/administrators.png
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SuccessfullDeveloper.jpg
 
-The following are the identified tasks that an end user or Administration can perform on the created site.
+The following are the identified tasks that a Developer can perform in order to customize the template.
 
   * Set Anonymous access on site
 
