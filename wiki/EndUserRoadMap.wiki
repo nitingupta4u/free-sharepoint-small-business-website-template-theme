@@ -3,6 +3,8 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/hands-raised.jpg<br>
 = Administrators / End Users Task list =
 
+||table||cells||
+
 The following are the identified tasks that an end user or Administration can perform on the created site.
 
   * Set Anonymous access on site
