@@ -29,9 +29,12 @@ This template provides the following functional features:
 == Getting Started ==
   * This topic shows you how to use and customize a Small Business Site Template in !SharePoint 2010. 
 
-=== RoadMaps ===
-
   * Create your portal in !SharePoint 2010 using Small Business Site Template with step by step [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/CreateSite guide] or can download the [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/downloads/detail?name=SmallBusinessTemplate.zip&can=2&q= Package] for your reference
+
+== !RoadMaps ==
+
+  * Developer !RoadMap
+  * End User / Administrator !RoadMap
 
 ==Share it with your friends!!!==
 <wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/113501407083818715381/Opti365ShareWebpageHelper.xml" border="0"/>
