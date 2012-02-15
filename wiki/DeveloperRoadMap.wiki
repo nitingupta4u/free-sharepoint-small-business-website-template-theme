@@ -1,12 +1,18 @@
-#summary One-sentence summary of this page.
+#summary This page provides help for Developers to customize the template according to their business requirements.
 = Developers Task list =
 
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SuccessfullDeveloper.jpg
 
-The following are the identified tasks that a Developer can perform in order to customize the template.
+The following links will help a Developer understand and customize the template.
 
-  * Set Anonymous access on site
+  * Site Features
 
-  * Modifying Site Logo and other images
+  * Custom Content Type and Page Layouts
 
-  * Modifying Site Content
+  * Query Us Web Part (using Configuration List)
+
+  * Contact Us Header control and Footer Control using Configuration List
+
+  * Master Page, JavaScript, Theme & CSS Class
+
+  * Common code & Constants
