@@ -20,8 +20,8 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 The updated master page is not applied on the site.
 Similarly we can modify the page layouts also.
 
-= Applying a different master page on the site =
-
+= Modifying the CSS of the site =
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CSS.jpg
 
 
 ----
