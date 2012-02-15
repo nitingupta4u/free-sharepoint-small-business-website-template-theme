@@ -1,6 +1,7 @@
 #summary This page provides help for Administrators / End Users to configure and use the site according to their business requirements.
-
-= End User Task list =
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/administrators.png<br>
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/hands-raised.jpg<br>
+= Administrators / End Users Task list =
 
 The following are the identified tasks that an end user or Administration can perform on the created site.
 
