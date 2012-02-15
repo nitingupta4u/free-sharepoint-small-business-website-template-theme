@@ -9,8 +9,9 @@ Administrators can use their customized images as site logo and site images by r
 
   * All the existing site images are kept in the Images List on the site.
   * Any custom images that needs to be used needs to be uploaded in this list. Steps for the same are as below:
-    #a
-    #b
+    # Open the site, Click Site Actions > View All Site Content
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ViewAllSiteContent.jpg
+    # b    
   
 
 
