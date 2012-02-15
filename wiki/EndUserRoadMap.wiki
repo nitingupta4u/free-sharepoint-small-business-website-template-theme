@@ -18,12 +18,12 @@ The following are the identified tasks that an end user or Administration can pe
     # Update the Contact Us header value
     # Update the Footer value
 
-  * Using Query Us Web Part to:
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/QueryUsWebPart Using Query Us Web Part to:]
     # Configure Web Part properties to send mail to administrators or other users
     # Configure Mail templates from Configuration list to send Admin mail or self mails.
 
-  * Modify the theme.
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifyTheme Modify the theme.]
 
-  * Modify Site elements (!MasterPage, CSS, !JavaScript)
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifySiteElements Modify Site elements (!MasterPage, CSS, !JavaScript)]
 
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/hands-raised.jpg
