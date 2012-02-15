@@ -9,7 +9,7 @@ Follow the below mentioned steps to modify the colors or fonts on the site.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
   # Under the *Look and Feel* section, click *Site Theme* option.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteThemeLink.jpg  
-  # You can see, the current theme applied on the site is the custom template theme (BrickRed Small Business Theme).
+  # You can see, the current theme applied on the site is the custom template theme (!BrickRed Small Business Theme).
   # Change any color or the font to say *Viner Hand ITC*, and click Apply.
  http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ChangeFonts.jpg
   # The new selected font gets applied on the entire site and is visible to all the users.
