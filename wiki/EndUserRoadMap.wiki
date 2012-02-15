@@ -5,14 +5,21 @@
 The following are the identified tasks that an end user or Administration can perform on the created site.
 
   * Set Anonymous access on site
+
   * Modifying Site Logo and other images
+
   * Modifying Site Content
+
   * Create internal pages using Custom Page layouts
+
   * Using Configuration list to:
     # Update the Contact Us header value
     # Update the Footer value
+
   * Using Query Us Web Part to:
     # Configure Web Part properties to send mail to administrators or other users
     # Configure Mail templates from Configuration list to send Admin mail or self mails.
+
   * Modify the theme.
-  * Modify Site elements (MasterPage, CSS, JavaScript)
+
+  * Modify Site elements (!MasterPage, !CSS, JavaScript)
