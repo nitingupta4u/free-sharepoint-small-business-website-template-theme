@@ -23,6 +23,14 @@ Similarly we can modify the page layouts also.
 = Modifying the CSS of the site =
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CSS.jpg
 
+The procedure to modify the CSS of the site is exactly the same as that of master pages, except that the location of CSS on the site is different.
+
+  * The Site CSS is located in the style library.
+  * To browse to the CSS, go to Site Actions -> View All Site Content
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ViewAllSiteContent.jpg
+  * Click on Style Libray -> en-us -> Themable -> Core Styles
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CSSLocation.jpg
+  * The file *!BrickRed.!SmallBusiness* is the site CSS and can be modified according to the requirements.
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
