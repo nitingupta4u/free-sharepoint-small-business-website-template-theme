@@ -8,7 +8,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ActualCodeStructure.jpg
   * Describing the above components:
     # Features: There are 2 features: 
-      * A Site scoped feature - Query Us WebPart
+      * A Site scoped feature - Query Us !WebPart
       * A Web scoped feature - Consisting of all the modules - Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS
 
 ----
