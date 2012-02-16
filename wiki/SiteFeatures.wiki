@@ -12,6 +12,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   * Web Scoped Feature - For all other components
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Feature1Web.jpg
 
+=== Feature Receiver ===
   * The Web scoped feature also has a feature receiver attached with it which performs the following tasks when the feature is activated, i.e. when the site is created.
     # a
     # b
