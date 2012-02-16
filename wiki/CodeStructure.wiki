@@ -21,6 +21,11 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     # *Layouts:* This is the 14 hive Layouts folder, which contains the JS files (*!BrickRed.!SmallBusiness.js & jquery-1.6.2.min.js*)
     # *!MasterPages:* This module contains the master page for the site (*!BrickRed.!SmallBusiness.master*), and places the same in the master page and page layout gallery on the site.
     # *!MasterPagesGallery:* This module contains the custom page layouts (*Home Page Layout and Inner Page Layout*) and places these in the Master Page and page layout gallery on the site.
-    # abc
+    # *!SiteDefinition:* This contains the Onet.XML file which is the main component using which the site is created. Both the features are getting activated by default within this file.
+    # *Themes:* This module contains the theme (*!BrickRedSmallBusiness.thmx*) file which is placed in the Themes gallery on the site.
+    # *Constants.cs:* This class file contains all the global constants used in the solution
+    # *!SendMail.cs:* This class file contains the common methods being used in order to Send the mails in the system.
+
+There are the main components in the code, which are further discussed in details in the next sections of the developer roadmap.
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
