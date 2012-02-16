@@ -30,8 +30,11 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   * Secondly, mail is sent to the user who is raising the query is he has checked the box in the web part fields (Send copy to me)
   * The body templates for both these mails is stored as HTML in the *Configurations* list on the site.
   * The Subjects for both these mails is stored as HTML in the *Configurations* list on the site.
-  * The HTML content in the list contains fixed tokens that are dynamically replaced by the user input in the web part fields.
+  * The HTML content in the list contains specified tokens that are dynamically replaced by the user input that is provided in the web part fields.
+  * Lets discuss the templates stored in configurations list one by one:
 
+    # *AdminMailContent:*
+This is 
 
 
 ----
