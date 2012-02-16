@@ -6,7 +6,10 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   * This template is packaged as a wsp that can be deployed to any !SharePoint server, which increases its re-usability.
   * The structure of the code is highlighted in the screenshot below:
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ActualCodeStructure.jpg
-
+  * Describing the above components:
+    # Features: There are 2 features: 
+      # A Site scoped feature - Query Us WebPart
+      # A Web scoped feature - Consisting of all the modules - Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
