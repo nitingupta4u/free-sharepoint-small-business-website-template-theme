@@ -5,6 +5,8 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 
 The following links will help a Developer understand and customize the template.
 
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/CodeWalkthrough Code Walkthrough]
+
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/SiteFeatures Site Features]
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ContentTypes_PageLayouts Custom Content Type and Page Layouts]
@@ -13,6 +15,4 @@ The following links will help a Developer understand and customize the template.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/UserControlsDev Contact Us Header control and Footer Control using Configuration List]
 
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/SiteElementsDev Master Page, JavaScript, Theme & CSS Class]
-
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/CodeWalkthrough Code Walkthrough]
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/SiteElementsDev Master Page, JavaScript, Theme & CSS Class] 
