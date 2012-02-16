@@ -32,11 +32,11 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   * The Subjects for both these mails is stored as HTML in the *Configurations* list on the site.
   * The HTML content in the list contains specified tokens that are dynamically replaced by the user input that is provided in the web part fields. Example, the tokens shown in the screenshot below, would be replaced by relevant values specified by the user. 
   * The list of Tokens that can be provided in the Value column are: 
-Name of User: #FROMNAME#
-Company: #FROMCOMPANY#
-Phone: #FROMPHONE#
-Email: #FROMEMAIL#
-User Query: #BODY#
+    #Name of User: #FROMNAME#
+    #Company: #FROMCOMPANY#
+    #Phone: #FROMPHONE#
+    #Email: #FROMEMAIL#
+    #User Query: #BODY#
 
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/MailTemplates.jpg
 
