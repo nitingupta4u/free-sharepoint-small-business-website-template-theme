@@ -1,7 +1,6 @@
 #summary This page describes the entire code structure of the template. This is useful for developers to customize the same.
 
-= Introduction =
-
+= Code Structure =
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CodeStructure.jpg
 
 Add your content here.
