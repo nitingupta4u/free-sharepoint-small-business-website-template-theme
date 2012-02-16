@@ -1,4 +1,4 @@
-#summary This page highlights the SharePoint features created for this template.
+#summary One-sentence summary of this page.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteFeatures.jpg
 
 = Introduction =
