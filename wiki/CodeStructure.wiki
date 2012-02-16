@@ -3,7 +3,10 @@
 = Code Structure =
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CodeStructure.jpg
 
-Add your content here.
+  * This template is packaged as a wsp that can be deployed to any SharePoint server, which increases its re-usability.
+  * The structure of the code is highlighted in the screenshot below:
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ActualCodeStructure.jpg
+
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
