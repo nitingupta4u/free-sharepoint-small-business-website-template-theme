@@ -2,7 +2,11 @@
 = Site Features =
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteFeatures.jpg
 
-Add your content here.
+  * There are 2 features used in this template
+      # A Site scoped feature - Query Us !WebPart
+      # A Web scoped feature - Consisting of all the other modules (Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS). This feature also has a receiver which gets triggered when the feature is activated.
+
+
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
