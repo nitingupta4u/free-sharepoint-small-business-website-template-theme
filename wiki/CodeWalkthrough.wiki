@@ -1,8 +1,0 @@
-#summary One-sentence summary of this page.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CodeWalkthrough.jpg
-= Code Walkthrough =
-
-Add your content here.
-
-----
-[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
