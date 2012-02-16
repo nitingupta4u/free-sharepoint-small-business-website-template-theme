@@ -18,6 +18,6 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     # *!CssClass:* This module contains the CSS class used in this template and places the same in the Style Library.
     # *Images:* This module contains all the images of the site and places them in the !PublishingImages Library on the site.
     # *!LayoutPages:* This module contains the Home Page and internal pages that are !pre-created when the site is created. It also places these pages in the Pages Library.
-    # *Layouts:* This is the 14 hive Layouts folder, which contains the JS files (*BrickRed.SmallBusiness.js & jquery-1.6.2.min.js*)
+    # *Layouts:* This is the 14 hive Layouts folder, which contains the JS files (*!BrickRed.!SmallBusiness.js & jquery-1.6.2.min.js*)
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
