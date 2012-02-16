@@ -20,7 +20,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     # *!LayoutPages:* This module contains the Home Page and internal pages that are !pre-created when the site is created. It also places these pages in the Pages Library.
     # *Layouts:* This is the 14 hive Layouts folder, which contains the JS files (*!BrickRed.!SmallBusiness.js & jquery-1.6.2.min.js*)
     # *!MasterPages:* This module contains the master page for the site (*!BrickRed.!SmallBusiness.master*), and places the same in the _catalogs/masterpage folder on the site, i.e. in the master page and page layout gallery on the site.
-    # *!MasterPagesGallery:* This module contains the custom page layouts (*Home Page Layout and Inner Page Layout*) and places these in the _catalogs/masterpage folder i.e. in the Master Page and page layout gallery on the site.
+    # *!MasterPagesGallery:* This module contains the custom page layouts (*Home Page Layout and Inner Page Layout*) and places these in the Master Page and page layout gallery on the site.
     # abc
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
