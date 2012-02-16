@@ -9,7 +9,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
   * Describing the above components:
     # *Features:* There are 2 features: 
       * A Site scoped feature - Query Us !WebPart
-      * A Web scoped feature - Consisting of all the other modules (Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS)
+      * A Web scoped feature - Consisting of all the other modules (Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS). This feature also has a receiver which gets triggered when the feature is activated.
     # *!BrickRed.!SmallBusiness:* The custom content type for page layout
     # *!ContactUsWebPart:* The Query Us !WebPart that is a user can use to send queries to the site administrators.
     # *!ControlTemplates:* This folder contains the 2 custom user controls, which are placed in the 14 Hive under the !ControlTemplates folder within Templates.
@@ -17,5 +17,6 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
       * Header Contact Us Control
     # *!CssClass:* This module contains the CSS class used in this template and places the same in the Style Library.
     # *Images:* This module contains all the images of the site and places them in the !PublishingImages Library on the site.
+    # *!LayoutPages:* This module contains the Home Page and internal pages that are !pre-created when the site is created. It also places these pages in the Pages Library.
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
