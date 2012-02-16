@@ -42,8 +42,10 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 
   * Lets discuss the templates stored in configurations list one by one:
     # *!AdminMailContent:* This is the template for the mail that is sent to Site Administrators and users specified in web part property (CC mail to these users).
+    # *!UserMailContent:* This is the template for the mail that is sent to the user raising the query and if he checks the option to send a copy of mail to himself also.
+    # *!AdminMailSubject:* This is subject of the mail sent to Site Administrators.
+    # *!UserMailSubject:* This is subject of the mail sent to the user raising the query.
 
-
-
+All these mail templates along with mail subjects can be modified in the configurations list according to the requirements.
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
