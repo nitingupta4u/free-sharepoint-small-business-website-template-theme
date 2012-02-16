@@ -28,5 +28,5 @@ The following are the identified tasks that an end user or Administration can pe
 
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/hands-raised.jpg
 
----
+----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/Home Back to Project Home]
