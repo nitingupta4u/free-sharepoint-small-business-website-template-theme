@@ -3,8 +3,8 @@
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteFeatures.jpg
 
   * There are 2 features used in this template
-      # A Site scoped feature - Query Us !WebPart
-      # A Web scoped feature - Consisting of all the other modules (Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS). This feature also has a receiver which gets triggered when the feature is activated.
+      # *A Site scoped feature* - Query Us !WebPart
+      # *A Web scoped feature* - This feature wraps all the other modules (Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS) and also has a receiver which gets triggered when the feature is activated.
 
 
 
