@@ -14,8 +14,12 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 
 === Feature Receiver ===
   * The Web scoped feature also has a feature receiver attached with it which performs the following tasks when the feature is activated, i.e. when the site is created.
-    # a
-    # b
-
+    # Assign default page of the site to *Home.aspx*
+    # Hide *Thanks.aspx* page from the Top Navigation, as it is only required when the mail is sent.
+    # Delete the *default.aspx* page created when publishing feature is activated on the site.
+    # Create *Configurations List* with required columns.
+    # *Add Configuration Items* to the Configuration List (Footer, Header, Admin mail, Self Mail, Admin Mail subject, Self mail subject)
+    # *Set default page layout* of the site to Inner Page (Custom page layout)
+    # *Apply custom theme* to the site
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
