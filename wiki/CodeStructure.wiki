@@ -26,6 +26,6 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     # *Constants.cs:* This class file contains all the global constants used in the solution
     # *!SendMail.cs:* This class file contains the common methods being used in order to Send the mails in the system.
 
-There are the main components in the code, which are further discussed in details in the next sections of the developer roadmap.
+There are the main components in the code, which are further discussed in details in the next sections of the Developer Roadmap.
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
