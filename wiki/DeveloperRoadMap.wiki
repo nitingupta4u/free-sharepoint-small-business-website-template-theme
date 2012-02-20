@@ -1,8 +1,6 @@
 #summary This page provides help for Developers to customize the template according to their business requirements.
 = Developers !RoadMap =
 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SuccessfullDeveloper.jpg
-
 The following links will help a Developer understand and customize the template.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/CodeStructure Code Structure]
