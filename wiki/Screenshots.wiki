@@ -34,3 +34,6 @@ Business contact details across locations can be highlighted on this page, so th
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Thanks.jpg
 
 A thankful note displayed to the end user when he sends a query to the organization.
+
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme Back to Project Home]
