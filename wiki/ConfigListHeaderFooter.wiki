@@ -1,5 +1,4 @@
 #summary This page guides about how to update the header and footer information which is being stored in the Configuration List.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/configuration.jpg
 
 = What is Configuration List =
 
