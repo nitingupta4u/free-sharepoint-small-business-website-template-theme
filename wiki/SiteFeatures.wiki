@@ -1,6 +1,5 @@
 #summary This page describes the Features used in this template
 = Site Features =
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteFeatures.jpg
 
   * There are 2 features used in this template
       # *A Site scoped feature* - Query Us !WebPart
