@@ -4,16 +4,16 @@
 
 The following components are part of the Query Us Web Part which is used by the end user to send queries to the organization.
 
-  # The actual Web Part
+  # The actual *Web Part*
   # Mail - Administrators
-    * Send Mail to Site Administrators
-    * Send Mail to other Users mentioned in web part property
-    * Read Mail template from configuration list
-    * Read Mail Subject from configuration list
+    * Send Mail to *Site Administrators*
+    * Send Mail to *other Users mentioned in web part property*
+    * *Read Mail template* from configuration list
+    * *Read Mail Subject* from configuration list
   # Mail - Self
-    * Send Mail to self 
-    * Read Mail template from configuration list
-    * Read Mail Subject from configuration list
+    * Send Mail to *self* 
+    * *Read Mail template* from configuration list
+    * *Read Mail Subject* from configuration list
 
 
 = Details =
