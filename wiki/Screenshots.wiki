@@ -6,24 +6,24 @@ This template provides you a basic set of 5 initial pages that you can increase 
 Let's have a look at these initial elements provided by the template.
 
 Home Page
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Feature2Site.jpg
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Home.jpg
 This 
 ----
 
 About Us
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Feature2Site.jpg
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/AboutUs.jpg
 
 ----
 
 Services
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Feature2Site.jpg
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Services.jpg
 
 ----
 
 Contact Us
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Feature2Site.jpg
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ContactUs.jpg
 
 ----
 
 Thanks
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Feature2Site.jpg
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Thanks.jpg
