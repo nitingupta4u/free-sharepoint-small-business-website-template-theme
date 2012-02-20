@@ -27,7 +27,10 @@ The services offered by the organization can be highlighted on this page of the 
  * Contact Us
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ContactUs.jpg
 
+Business contact details across locations can be highlighted on this page, so that users can contact the organization for their queries.
 ----
 
  * Thanks
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Thanks.jpg
+
+A thankful note displayed to the end user when he sends a query to the organization.
