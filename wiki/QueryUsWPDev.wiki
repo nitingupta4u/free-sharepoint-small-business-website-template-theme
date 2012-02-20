@@ -18,7 +18,10 @@ The following components are part of the Query Us Web Part which is used by the 
 ----
 
   # Web Part:
-    * a
+    * This is a *visual web part* having a user control which comprises fields to capture the user data.
+    * *Send Me a copy* field, which if checked, sends a mail to the user itself who is sending the query.
+    * *Send Query button*, which processes the user input and sends query to the administrators.
+    * 
 
 = Details =
 
