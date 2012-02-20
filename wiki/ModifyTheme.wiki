@@ -1,5 +1,4 @@
 #summary This page guides the user on how to change the Theme applied on the site including changing colors and fonts.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Theme.jpg
 
 = How to update the colors and fonts on site =
 
