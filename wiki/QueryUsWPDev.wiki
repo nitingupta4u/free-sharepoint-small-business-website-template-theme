@@ -8,7 +8,7 @@ The following components are part of the Query Us Web Part which is used by the 
     * This is a *visual web part* having a user control which comprises fields to capture the user data.
     * *Send Me a copy* field, which if checked, sends a mail to the user itself who is sending the query.
     * *Send Query button*, which processes the user input and sends query to the administrators.    
-    * Web Part Properties:
+    * *Web Part Properties:*
       * Send Mail to Administrators: By default true, and sends mails to site administrators.
       * CC Mail to these users: Sends mails to the users mentioned in the text box also.
  
