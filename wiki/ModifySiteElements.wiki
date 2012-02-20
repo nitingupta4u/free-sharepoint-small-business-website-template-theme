@@ -1,7 +1,6 @@
 #summary This page guides on how to make changes to the master page, page layouts and css elements of the template.
 
 = Modifying the master page & page layouts of the site =
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LookAndFeelLogo.jpg
 
   # Click on Site Actions -> Site Settings
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
