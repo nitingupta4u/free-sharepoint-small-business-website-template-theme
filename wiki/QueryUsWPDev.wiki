@@ -28,7 +28,9 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
         * Sends Mail.
     * There are pre defined tokens stored in the configuration list. Administrators can use these tokens in either the Admin mail body, Self Mail body, Admin mail subject or Self Mail subject.
     * These tokens are read in the code and are replaced with the actual values entered by the user.   
-    * *Constants.cs* is the class that contains all the constant values used in the solution. The default values of Admin Mail and Self Mail content / subject are stored in this class. Also, the list item identity names for these mail objects are placed in this class.
+    * *Constants.cs* is the class that contains all the constant values used in the solution. 
+    * The default values of Admin Mail and Self Mail content / subject which are there in the configuration list are also stored in this class. 
+    * Also, the list item identity names for these mail objects are placed in this class.
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
