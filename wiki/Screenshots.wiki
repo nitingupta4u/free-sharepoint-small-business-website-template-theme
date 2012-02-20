@@ -2,4 +2,23 @@
 
 = Introduction =
 
-Add your content here.
+This template provides you a basic set of 5 initial pages that you can increase or edit based on your organization's content. 
+Let's have a look at these initial elements provided by the template.
+
+Home Page
+
+----
+
+About Us
+
+----
+
+Services
+
+----
+
+Contact Us
+
+----
+
+Thanks
