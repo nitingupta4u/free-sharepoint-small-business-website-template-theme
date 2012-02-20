@@ -1,5 +1,4 @@
 #summary This page guides how to customize Site Images and Site logo.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/imageCustomize.jpg
 
 = Introduction =
 
