@@ -14,7 +14,7 @@ The following user controls have been used in the template site.
     * The content of this control is stored as HTML in the configuration list.
     * The HTML text is stored in the Constants.cs file, from where it is added to the Configuration list.
 
-  * Both these controls are placed inside the master page.
+Both these controls are placed inside the master page.
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
