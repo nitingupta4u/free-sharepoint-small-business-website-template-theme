@@ -5,19 +5,6 @@
 The following components are part of the Query Us Web Part which is used by the end user to send queries to the organization.
 
   # The actual *Web Part*
-  # Mail - Administrators
-    * Send Mail to *Site Administrators*
-    * Send Mail to *other Users mentioned in web part property*
-    * *Read Mail template* from configuration list
-    * *Read Mail Subject* from configuration list
-  # Mail - Self
-    * Send Mail to *self* 
-    * *Read Mail template* from configuration list
-    * *Read Mail Subject* from configuration list
-
-----
-
-Web Part:
     * This is a *visual web part* having a user control which comprises fields to capture the user data.
     * *Send Me a copy* field, which if checked, sends a mail to the user itself who is sending the query.
     * *Send Query button*, which processes the user input and sends query to the administrators.    
@@ -28,12 +15,15 @@ Web Part:
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/WebPart.jpg<br/>   
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/WebPartProperty.jpg
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  # Mail - Administrators
+    * Send Mail to *Site Administrators*
+    * Send Mail to *other Users mentioned in web part property*
+    * *Read Mail template* from configuration list
+    * *Read Mail Subject* from configuration list
+  # Mail - Self
+    * Send Mail to *self* 
+    * *Read Mail template* from configuration list
+    * *Read Mail Subject* from configuration list
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
