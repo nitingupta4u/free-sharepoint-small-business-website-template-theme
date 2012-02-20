@@ -9,7 +9,7 @@ The following user controls have been used in the template site.
     * The content of this control is stored as HTML in the configuration list.
     * The HTML text is stored in the Constants.cs file, from where it is added to the Configuration list.
 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/header.jpg
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Header.jpg
 
 == *Footer Control* ==
     * This is the copyright details of the organization appearing at the bottom of the page.
