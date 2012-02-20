@@ -26,8 +26,8 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
         * Replaces tokens from Mail Body with dynamic user values
         * Replaces tokens from Mail subject with dynamic user values
         * Sends Mail.
-    * sdsd
-    
+    * There are pre defined tokens stored in the configuration list. Administrators can use these tokens in either the Admin mail body, Self Mail body, Admin mail subject or Self Mail subject.
+    * These tokens are read in the code and are replaced with the actual values entered by the user.   
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
