@@ -5,18 +5,18 @@
 This template provides you a basic set of 5 initial pages that you can increase or edit based on your organization's content. 
 Let's have a look at these initial elements provided by the template.
 
- * Home Page
+  # Home Page
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Home.jpg
 
 This 
 ----
 
- * About Us
+  # About Us
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/AboutUs.jpg
 
 ----
 
- * Services
+  # Services
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Services.jpg
 
 ----
