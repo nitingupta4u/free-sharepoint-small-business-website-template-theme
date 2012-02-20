@@ -1,5 +1,4 @@
 #summary This page describes how to update page content of the site
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/updatePagecontent.jpg
 
 = Introduction =
 
