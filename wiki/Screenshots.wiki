@@ -8,17 +8,20 @@ Let's have a look at these initial elements provided by the template.
   # Home Page
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Home.jpg
 
-This 
+This is the home page of the template site, which can display your company's vital information and happenings.
 ----
 
   # About Us
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/AboutUs.jpg
+
+This page can showcase the details about what the company is about?
 
 ----
 
   # Services
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Services.jpg
 
+The services offered by the organization can be highlighted on this page of the template site.
 ----
 
  * Contact Us
