@@ -1,16 +1,20 @@
-#summary One-sentence summary of this page.
+#summary This page provides help about the user controls used in the template.
 
-= Introduction =
+= User Controls =
 
-Add your content here.
+The following user controls have been used in the template site.
 
+== *Header Control* ==
+    * This is the contact details of the organization appearing at the top of the page.
+    * The content of this control is stored as HTML in the configuration list.
+    * The HTML text is stored in the Constants.cs file, from where it is added to the Configuration list.
 
-= Details =
+== *Footer Control* ==
+    * This is the copyright details of the organization appearing at the bottom of the page.
+    * The content of this control is stored as HTML in the configuration list.
+    * The HTML text is stored in the Constants.cs file, from where it is added to the Configuration list.
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Both these controls are placed inside the master page.
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
