@@ -1,6 +1,5 @@
 #summary This page displays how the template site looks like.
 
-= ScreenShots =
+= !ScreenShots =
 
 Add your content here.
-
