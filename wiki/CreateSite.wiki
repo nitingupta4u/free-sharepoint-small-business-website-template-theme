@@ -8,3 +8,6 @@
   # Provide a Title, Description and URL for your site to be created (As shown in the screenshot below)<br/>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/TitleDescURL.jpg<br>
   # In the Template selection section, select *!BrickRed* Tab, which will display the *!BrickRed Small Business Template* as the selected one. Set the primary and secondary site collection administrators.<br/>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/TemplateSelection.jpg<br>
   # Click OK. This will create the site using the custom template.
+
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
