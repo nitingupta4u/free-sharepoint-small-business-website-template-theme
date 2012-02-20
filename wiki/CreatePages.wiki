@@ -1,5 +1,4 @@
 #summary This page guides how to create new Site pages using our custom page layouts defined within this template.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/newPage.jpg
 
 = Available Custom layouts =
 
