@@ -10,20 +10,20 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 This 
 ----
 
-About Us
+ * About Us
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/AboutUs.jpg
 
 ----
 
-Services
+ * Services
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Services.jpg
 
 ----
 
-Contact Us
+ * Contact Us
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ContactUs.jpg
 
 ----
 
-Thanks
+ * Thanks
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Thanks.jpg
