@@ -13,3 +13,5 @@
   # Verify the installed package in !SharePoint Central Administration, by going to Start -> All Programs -> Microsoft !SharePoint 2010 Products -> !SharePoint 2010 Central Administration.<br/>	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CentralAdmin.jpg<br/>	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SystemSettings.jpg<br/>	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ValidateDeployment.jpg<br/>
   # This confirms the package has been successfully installed and deployed to !SharePoint
  
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme Back to Project Home]
