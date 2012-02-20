@@ -15,7 +15,18 @@ The following components are part of the Query Us Web Part which is used by the 
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/WebPart.jpg<br/>   
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/WebPartProperty.jpg
 
-== *Mail - Administrators* ==
+== *Send Mail* ==
+    * Mail can be sent to Site Administrators, other users mentioned in the web part property and to self (User who is sending the query)
+    * *!SendMail.cs* is the class that contain common methods used in Sending Mail. Some of these common methods are:
+      * *!GetMailSubjectFromConfigList* - used to fetch the subject of mail from configuration list, based on whether it is admin or self mail.
+      * *!GetMailBodyFromConfigList* - used to fetch the body of the mail from configuration list, based on whether it is admin or self mail.
+      * *!CreateMailMessage* - Creates an e-mail message (MailMessage) that can be sent using the System.Net.Mail.!SmtpClient class.
+      * *!AddMailAddresses* - Adds user email addresses in a collection
+      * *!SendQuery* -
+        * Replaces tokens from Mail Body with dynamic user values
+        * Replaces tokens from Mail subject with dynamic user values
+        * Sends Mail.
+
     * Send Mail to *Site Administrators*
     * Send Mail to *other Users mentioned in web part property*
     * *Read Mail template* from configuration list
