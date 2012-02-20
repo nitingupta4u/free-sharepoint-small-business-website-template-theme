@@ -18,4 +18,4 @@ The following links will help a Developer understand and customize the template.
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/SiteElementsDev Master Page, JavaScript, Theme & CSS Class] 
 
 ----
-[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/Home Back to Project Home]
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme Back to Project Home]
