@@ -6,24 +6,24 @@ The site elements such as *Master Page, Theme, CSS & Javascript* can be modified
 
 === Master Page ===
 
-  * BrickRed.SmallBusiness.master is the *custom master page* used in the site.
+  * !BrickRed.!SmallBusiness.master is the *custom master page* used in the site.
   * The *system master page* used is the default (v4.master)
   * The custom master page is stored in the master page gallery.
 
 === Theme ===
 
-  * BrickRedSmallBusiness.thmx is the *custom theme* used in the site.
+  * !BrickRedSmallBusiness.thmx is the *custom theme* used in the site.
   * This theme has been created using PowerPoint.
   * This is placed in the Themes gallery.
 
 === CSS ===
 
-  * BrickRed.SmallBusiness.css is the *custom CSS class* used in the site.
+  * !BrickRed.!SmallBusiness.css is the *custom CSS class* used in the site.
   * This is placed in the Style Library -> en-us -> Themable -> Core Styles folder.
  
 === JavaScript ===
 
-  * BrickRed.SmallBusiness.js is the *custom JSS* used in the site.
+  * !BrickRed.!SmallBusiness.js is the *custom JSS* used in the site.
   * This is placed in the 14 -> Layouts -> 1033 folder.
 
 ----
