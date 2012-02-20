@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Templates xmlns:ows="Microsoft SharePoint">
-  <Template Name="BrickRed.Templates.SmallBusiness" ID="10000">
-    <Configuration ID="0" Title="BrickRed Small Business Template" RootWebOnly="TRUE" Hidden="FALSE" ImageUrl="/_layouts/images/CPVW.gif" Description="This template creates a site designed for promoting an organization's business and services. Administrators can configure the pages and site according to the organizations needs." DisplayCategory="BrickRed">
-    </Configuration>
-  </Template>
-</Templates>

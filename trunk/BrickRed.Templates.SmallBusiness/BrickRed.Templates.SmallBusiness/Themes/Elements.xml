@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
-  <Module Name="Themes" Url="_catalogs/theme" >
-    <File Path="Themes\BrickRedSmallBusiness.thmx" Url="BrickRedSmallBusiness.thmx" Type="GhostableInLibrary" />/>
-</Module>
-</Elements>
