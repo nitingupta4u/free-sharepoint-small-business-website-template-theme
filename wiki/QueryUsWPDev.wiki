@@ -20,22 +20,14 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     * *!SendMail.cs* is the class that contain common methods used in Sending Mail. Some of these common methods are:
       * *!GetMailSubjectFromConfigList* - used to fetch the subject of mail from configuration list, based on whether it is admin or self mail.
       * *!GetMailBodyFromConfigList* - used to fetch the body of the mail from configuration list, based on whether it is admin or self mail.
-      * *!CreateMailMessage* - Creates an e-mail message (MailMessage) that can be sent using the System.Net.Mail.!SmtpClient class.
+      * *!CreateMailMessage* - Creates an e-mail message (!MailMessage) that can be sent using the System.Net.Mail.!SmtpClient class.
       * *!AddMailAddresses* - Adds user email addresses in a collection
       * *!SendQuery* -
         * Replaces tokens from Mail Body with dynamic user values
         * Replaces tokens from Mail subject with dynamic user values
         * Sends Mail.
-
-    * Send Mail to *Site Administrators*
-    * Send Mail to *other Users mentioned in web part property*
-    * *Read Mail template* from configuration list
-    * *Read Mail Subject* from configuration list
-  
-== *Mail - Self* ==
-    * Send Mail to *self* 
-    * *Read Mail template* from configuration list
-    * *Read Mail Subject* from configuration list
+    * sdsd
+    
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
