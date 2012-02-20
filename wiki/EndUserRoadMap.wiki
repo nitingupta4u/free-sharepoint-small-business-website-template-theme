@@ -2,8 +2,6 @@
 
 = Administrators / End Users !RoadMap =
 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/administrators.png
-
 The following are the identified tasks that an end user or Administration can perform on the created site.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/CreateSite Create your portal in SharePoint 2010 using Small Business Site Template with step by step guide] 
