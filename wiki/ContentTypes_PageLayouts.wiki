@@ -3,8 +3,12 @@
 = Custom Page Layouts =
 
 There are 2 *custom page layouts* created for this template site:
-  # *Home Page* - The home page layout of the template site (Home) - !BrickRedSmallBusinessHomePageLayout.aspx
-  # *Inner Page* - The internal pages of the template site are using this layout (Contact Us, About Us, Services, Thanks) - !BrickRedSmallBusinessInnerPageLayout.aspx
+  # *Home Page:*
+    * The home page layout of the template site (Home) 
+    * Page Name - !BrickRedSmallBusinessHomePageLayout.aspx
+  # *Inner Page:* 
+    * The internal pages of the template site are using this layout (Contact Us, About Us, Services, Thanks)
+    * Page Name - !BrickRedSmallBusinessInnerPageLayout.aspx
 
   * The default page layout of site is set to Inner page. This is done programatically within the code.
   * Both these are derived from Article page content type.
