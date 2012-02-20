@@ -15,12 +15,13 @@ The following components are part of the Query Us Web Part which is used by the 
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/WebPart.jpg<br/>   
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/WebPartProperty.jpg
 
-  # Mail - Administrators
+== *Mail - Administrators* ==
     * Send Mail to *Site Administrators*
     * Send Mail to *other Users mentioned in web part property*
     * *Read Mail template* from configuration list
     * *Read Mail Subject* from configuration list
-  # Mail - Self
+  
+== *Mail - Self* ==
     * Send Mail to *self* 
     * *Read Mail template* from configuration list
     * *Read Mail Subject* from configuration list
