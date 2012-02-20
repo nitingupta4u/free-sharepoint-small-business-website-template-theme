@@ -1,5 +1,4 @@
 #summary This page describes how to set anonymous access on the site
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/anonymous.jpg
 
 = What is Anonymous access? =
 
