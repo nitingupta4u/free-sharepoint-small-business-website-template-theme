@@ -1,20 +1,13 @@
 #summary This page guides on how to make changes to the master page, page layouts and css elements of the template.
-
 = Modifying the master page & page layouts of the site =
-
-  # Click on Site Actions -> Site Settings
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
-  # Under the *Galleries* section, click on *Master pages and page layouts* link. 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/MasterPageGallery.jpg
+  # Click on Site Actions -> Site Settings<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SiteSettings.jpg
+  # Under the *Galleries* section, click on *Master pages and page layouts* link. <br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/MasterPageGallery.jpg
   # This gallery contains the *Custom master page - !BrickRed.!SmallBusiness.Master*, and the *custom page layouts - !BrickRedSmallBusinessHomePageLayout.aspx & !BrickRedSmallBusinessInnerPageLayout.aspx*
-  # In order to make changes to this master page, check the checkbox next to the !BrickRed.!SmallBusiness.Master, and download this file to your machine.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DownloadMasterPage.jpg
+  # In order to make changes to this master page, check the checkbox next to the !BrickRed.!SmallBusiness.Master, and download this file to your machine.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DownloadMasterPage.jpg
   # Make changes to the downloaded file accordingly, and then update the file at this same location from where it was downloaded.
   # Click Upload document button in the ribbon, and upload the document.
-  # Once done, Publish the document and then approve the same so that changes are visible among all the users.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ApproveMaster.jpg
-  # In the approve popup , select Approve and click OK.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ApprovedMaster.jpg
+  # Once done, Publish the document and then approve the same so that changes are visible among all the users.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ApproveMaster.jpg
+  # In the approve popup , select Approve and click OK.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ApprovedMaster.jpg
 
 The updated master page is not applied on the site.
 Similarly we can modify the page layouts also.
