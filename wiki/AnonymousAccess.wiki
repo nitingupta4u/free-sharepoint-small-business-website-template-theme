@@ -12,7 +12,7 @@ Anonymous Access is required on Small Business Site, so that the end users can b
 
 Enabling anonymous access on a !SharePoint site has 2 steps:
 
-  # Turn on Anonymous access on Web Application
+   Turn on Anonymous access on Web Application
   
   * The process begins in Central Administration.
   * Click on Manage Web Applications and select your web application from the list and take a look at the ribbon:
