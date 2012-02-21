@@ -3,35 +3,25 @@
 = Available Custom layouts =
 
 There are 2 custom page layouts available in this template. They are as follows:
-  * Home Page - template for home page of the site (Home)
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/HomePageLayout.jpg
-
-  * Inner Page - template for inner pages (!AboutUs, !ContactUs, Services, Thanks)
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/InnerPageLayout.jpg
-
+  # Home Page - template for home page of the site (Home)<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/HomePageLayout.jpg
+  # Inner Page - template for inner pages (!AboutUs, !ContactUs, Services, Thanks)<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/InnerPageLayout.jpg
 
 = Create new page using custom layout =
 
 In order to create a new site page using the above page layouts, follow the steps as mentioned below:
 
-  # Click Site Actions -> New Page
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CreateNewPage.jpg
-  # A popup window opens up. Enter the page name (Say ... Strategies). Click Create.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/NewPagePopUp.jpg
-  # Page is created with Inner Page layout as that is the default page layout for this site as defined in the template.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DefaultPageLayout.jpg
+  # Click Site Actions -> New Page<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CreateNewPage.jpg
+  # A popup window opens up. Enter the page name (Say ... Strategies). Click Create.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/NewPagePopUp.jpg
+  # Page is created with Inner Page layout as that is the default page layout for this site as defined in the template.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DefaultPageLayout.jpg
   # Content can be added to this page accordingly.
 
 = Change existing page layout =
 
 Suppose We need to change the page layout of the above created page to Home Page Layout; the steps for the same are mentioned below:
 
-  # Browse to the Strategies Page, Click Site Actions -> Edit Page.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/EditPage.jpg
-  # Click the Page Tab; Select Page Layout button; Select Home Page, and that will apply the new page layout to the strategies page. Check in and Publish the page and your page with the new page layout will appear to everyone.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ChangePageLayout.jpg
+  # Browse to the Strategies Page, Click Site Actions -> Edit Page.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/EditPage.jpg
+  # Click the Page Tab; Select Page Layout button; Select Home Page, and that will apply the new page layout to the strategies page. Check in and Publish the page and your page with the new page layout will appear to everyone.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ChangePageLayout.jpg
 
-The new template would look as displayed in the below screenshot:
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ChangedLayout.jpg  
+The new template would look as displayed in the below screenshot:<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ChangedLayout.jpg  
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
