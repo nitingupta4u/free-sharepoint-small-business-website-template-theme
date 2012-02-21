@@ -10,14 +10,10 @@ Configuration List is a list that is storing the following content of the site i
 
 = Update Header & Footer Content =
 
-  # Go to Site Actions -> View All Site Content -> Configurations
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ConfigurationsList.jpg
-  # This list contains the HTML values for footer and header as shown in the screenshot.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ConfigHtmls.jpg
-  # Check the checkbox next to ContactUs list item. Select Edit Item button in the ribbon. 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/updateHeader.jpg
-  # Say, we have updated the values of contact email id as admin@mycompany.com. On Saving the value, the header is reflected with the updated value.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/HeaderValueReflected.jpg
+  # Go to Site Actions -> View All Site Content -> Configurations<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ConfigurationsList.jpg
+  # This list contains the HTML values for footer and header as shown in the screenshot.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ConfigHtmls.jpg
+  # Check the checkbox next to ContactUs list item. Select Edit Item button in the ribbon. <br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/updateHeader.jpg
+  # Say, we have updated the values of contact email id as admin@mycompany.com. On Saving the value, the header is reflected with the updated value.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/HeaderValueReflected.jpg
 
 Similarly, the value of footer can be changed and updated to reflect the new HTML stored in the configurations list under the footer list item.
 ----
