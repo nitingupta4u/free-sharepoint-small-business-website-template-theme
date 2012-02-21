@@ -6,18 +6,13 @@ The content on the site pages is simple plain text that can be edited directly u
 
 = How to Update the page Content =
 
-  * Browse to the site, logged in as Administrator.
-  * Click on Site Actions -> Edit Page 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/EditPage.jpg 
-  * The text on the page becomes editable within the browser itself.
-  * Update the text. 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/UpdateContent.jpg
-  * Click *Check In* Button within the Page Tab.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CheckIn.jpg 
-  * Enter Check In comments when prompted to.
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CheckInComments.jpg
-  * Publish the page so that changes are approved and are visible to all users. Click on Publish Button within Publish Tab
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Publish.jpg
+  # Browse to the site, logged in as Administrator.
+  # Click on Site Actions -> Edit Page <br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/EditPage.jpg 
+  # The text on the page becomes editable within the browser itself.
+  # Update the text.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/UpdateContent.jpg
+  # Click *Check In* Button within the Page Tab.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CheckIn.jpg 
+  # Enter Check In comments when prompted to.<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/CheckInComments.jpg
+  # Publish the page so that changes are approved and are visible to all users. Click on Publish Button within Publish Tab<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Publish.jpg
 
 You will be able to see the page with updated content.
 
