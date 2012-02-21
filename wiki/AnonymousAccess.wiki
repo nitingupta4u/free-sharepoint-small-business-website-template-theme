@@ -12,20 +12,14 @@ Anonymous Access is required on Small Business Site, so that the end users can b
 
 Enabling anonymous access on a !SharePoint site has 2 steps:
 
-   Turn on Anonymous access on Web Application
-  
-  * The process begins in Central Administration.
-  * Click on Manage Web Applications and select your web application from the list and take a look at the ribbon:
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous.jpg
-  * Click Authentication Providers
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous2.jpg
-  * From this menu you select an Authentication Provider
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous3.jpg
-  * From the next menu you can check Enable anonymous access
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous4.jpg
-  * After you click save, the web application will allow Anonymous access to be set, but you have to set this from the actual web application. So now, navigate to the top level site collection for the web application and click Site Actions > Site Settings > Site Permissions. From that menu you can click Anonymous Access:
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous5.jpg
-  * From there select Entire Web Site and click OK.
+  # Turn on Anonymous access on Web Application  
+    * The process begins in Central Administration.
+    * Click on Manage Web Applications and select your web application from the list and take a look at the ribbon:<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous.jpg
+    * Click Authentication Providers<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous2.jpg
+    * From this menu you select an Authentication Provider<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous3.jpg
+    * From the next menu you can check Enable anonymous access<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous4.jpg
+  # After you click save, the web application will allow Anonymous access to be set, but you have to set this from the actual web site. So now, navigate to the top level site collection for the web application and click Site Actions > Site Settings > Site Permissions. From that menu you can click Anonymous Access:<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous5.jpg
+    * From there select Entire Web Site and click OK.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous6.jpg
 
 That’s all you have to do, now the site will be available for browsing by anyone.
