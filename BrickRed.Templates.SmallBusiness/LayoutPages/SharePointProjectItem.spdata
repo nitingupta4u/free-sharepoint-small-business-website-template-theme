@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="LayoutPages\" Type="ElementManifest" />
+    <ProjectItemFile Source="AboutUs.aspx" Target="LayoutPages\" Type="ElementFile" />
+    <ProjectItemFile Source="Services.aspx" Target="LayoutPages\" Type="ElementFile" />
+    <ProjectItemFile Source="Home.aspx" Target="LayoutPages\" Type="ElementFile" />
+    <ProjectItemFile Source="Thanks.aspx" Target="LayoutPages\" Type="ElementFile" />
+    <ProjectItemFile Source="ContactUs.aspx" Target="LayoutPages\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

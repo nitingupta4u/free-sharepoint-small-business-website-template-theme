@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance FeatureId="00bfea71-52d4-45b3-b544-b1c71b620109"
+                TemplateType="109"
+                Description="This list displays the services offered"
+                Title="Services"
+                Url="Lists/Services"
+                OnQuickLaunch="FALSE">
+  </ListInstance>
+
+  <Module Name="ServicesOffered" List="109" Url="Lists/Services" Path="ServicesOffered" >
+    <File Url="Services_img1.jpg" Type="GhostableInLibrary" Path="Services_img1.jpg"  >
+      <Property Name="Description" Value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis turpis eros, mattis et vestibulum in, suscipit et metus. Duis nec placerat felis. Nam eget pulvinar sem. Sed dictum gravida lobortis"></Property>
+      <Property Name="Title" Value="Lorem ipsum"></Property>
+    </File>
+    <File Url="Services_img4.jpg"  Type="GhostableInLibrary" Path="Services_img4.jpg" >
+      <Property Name="Description" Value="Phasellus ut pretium diam. Vestibulum vel velit magna, congue sollicitudin orci. Donec quis mauris at ante volutpat ornare"></Property>
+      <Property Name="Title" Value="Suspendisse laoreet"></Property>
+    </File>
+    <File Url="Services_img2.jpg" Type="GhostableInLibrary" Path="Services_img2.jpg" >
+      <Property Name="Description" Value="Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum. Donec nec nisl dolor. Nulla porta condimentum lacus eu adipiscing"></Property>
+      <Property Name="Title" Value="Integer commodo"></Property>
+    </File>
+    <File Url="Services_img3.jpg" Type="GhostableInLibrary" Path="Services_img3.jpg" >
+      <Property Name="Description" Value="Aliquam nec tellus eu lectus ultrices consequat et nec turpis. Suspendisse vehicula porta urna, ac lobortis nisl viverra at. Curabitur ac velit nibh."></Property>
+      <Property Name="Title" Value="Aliquam nec"></Property>
+    </File>  
+</Module>
+</Elements>

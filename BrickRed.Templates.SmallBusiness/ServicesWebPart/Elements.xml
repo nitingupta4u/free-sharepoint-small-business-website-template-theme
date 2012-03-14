@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="ServicesWebPart" List="113" Url="_catalogs/wp">
+    <File Path="ServicesWebPart\ServicesWebPart.webpart" Url="ServicesWebPart.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="BrickRed.SmallBusiness" />
+    </File>
+  </Module>
+</Elements>
