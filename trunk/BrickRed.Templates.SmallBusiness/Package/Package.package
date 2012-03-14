@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a022303c-753d-4c72-9560-407493f3458b" solutionId="a022303c-753d-4c72-9560-407493f3458b" resetWebServer="false" name="BrickRed.Templates.SmallBusiness" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3b8c5ebd-819c-41bb-b8dc-d5322aeeed3a" />
+    <featureReference itemId="7deec408-be5a-49c5-8ae2-b5287f787c34" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="ab3e98a0-9515-4af9-a971-12cb471a21d8" />
+    <projectItemReference itemId="5bf9eee2-ba96-4042-8ba5-c2a46d7cf0b0" />
+    <projectItemReference itemId="719c0427-910c-4e2a-a241-ca1bfaca8a32" />
+  </projectItems>
+</package>

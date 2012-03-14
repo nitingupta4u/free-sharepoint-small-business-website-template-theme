@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="MasterPages" Url="_catalogs/masterpage">
+<File Path="MasterPages\_catalogs\masterpage\BrickRed.SmallBusiness.master" Url="BrickRed.SmallBusiness.master" Type="GhostableInLibrary" />
+</Module>
+</Elements>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images" Url="PublishingImages" >
+    <File Path="Images\usa.gif" Url="usa.gif" Type="GhostableInLibrary"/>
+    <File Path="Images\uk.gif" Url="uk.gif" Type="GhostableInLibrary"/>
+    <File Path="Images\romania.gif" Url="romania.gif" Type="GhostableInLibrary"/>
+    <File Path="Images\Netherlands.gif" Url="Netherlands.gif" Type="GhostableInLibrary"/>
+    <File Path="Images\India.gif" Url="India.gif" Type="GhostableInLibrary"/>
+    <File Path="Images\worldwideLocationsMap.jpg" Url="worldwideLocationsMap.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\usa.gif" Url="usa.gif"  Type="GhostableInLibrary"/>
+    <File Path="Images\ContactUs_img1.jpg" Url="ContactUs_img1.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ContactUs_img2.jpg" Url="ContactUs_img2.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ContactUs_img3.jpg" Url="ContactUs_img3.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ContactUs_img4.jpg" Url="ContactUs_img4.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ContactUs_img5.jpg" Url="ContactUs_img5.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ContactUs_img6.jpg" Url="ContactUs_img6.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\AboutUsBanner.jpg" Url="AboutUsBanner.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ContactUsBanner.jpg" Url="ContactUsBanner.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\HomeBanner.jpg" Url="HomeBanner.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ServciesBanner.jpg" Url="ServciesBanner.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ThankyouBanner.jpg" Url="ThankyouBanner.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\QueryButton.jpg" Url="QueryButton.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\ThanksImg.jpg" Url="ThanksImg.jpg" Type="GhostableInLibrary"/>
+    <File Path="Images\HomePage.png" Url="HomePage.png" Type="GhostableInLibrary"/>
+    <File Path="Images\InnerPage.png" Url="InnerPage.png" Type="GhostableInLibrary"/>
+    <File Path="Images\SiteLogo.gif" Url="SiteLogo.gif" Type="GhostableInLibrary"/>
+</Module>
+</Elements>

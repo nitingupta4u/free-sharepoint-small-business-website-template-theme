@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B0C0C179-3D94-48E7-8118-0A7BA2171C26}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BrickRed.Templates.SmallBusiness</RootNamespace>
+    <AssemblyName>BrickRed.Templates.SmallBusiness</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SharePoint.Publishing, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constants.cs" />
+    <Compile Include="ContactUsWebPart\ContactUsWebPart.cs" />
+    <Compile Include="ContactUsWebPart\ContactUsWebPartUserControl.ascx.cs">
+      <DependentUpon>ContactUsWebPartUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUsWebPart\ContactUsWebPartUserControl.ascx.designer.cs">
+      <DependentUpon>ContactUsWebPartUserControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlTemplates\BrickRed.Templates.SmallBusiness\BrickRed.SmallBusiness.ContactUsControl.ascx.cs">
+      <DependentUpon>BrickRed.SmallBusiness.ContactUsControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ControlTemplates\BrickRed.Templates.SmallBusiness\BrickRed.SmallBusiness.ContactUsControl.ascx.designer.cs">
+      <DependentUpon>BrickRed.SmallBusiness.ContactUsControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlTemplates\BrickRed.Templates.SmallBusiness\FooterControl.ascx.cs">
+      <DependentUpon>FooterControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ControlTemplates\BrickRed.Templates.SmallBusiness\FooterControl.ascx.designer.cs">
+      <DependentUpon>FooterControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\Feature1\Feature1.EventReceiver.cs">
+      <DependentUpon>Feature1.feature</DependentUpon>
+    </Compile>
+    <Compile Include="LocationWebPart\LocationWebPart.cs" />
+    <Compile Include="LocationWebPart\LocationWebPartUserControl.ascx.cs">
+      <DependentUpon>LocationWebPartUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LocationWebPart\LocationWebPartUserControl.ascx.designer.cs">
+      <DependentUpon>LocationWebPartUserControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SendMail.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ServicesWebPart\ServicesWebPart.cs" />
+    <Compile Include="ServicesWebPart\ServicesWebPartUserControl.ascx.cs">
+      <DependentUpon>ServicesWebPartUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ServicesWebPart\ServicesWebPartUserControl.ascx.designer.cs">
+      <DependentUpon>ServicesWebPartUserControl.ascx.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BrickRed.SmallBusiness\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{8e04be6c-77e9-4ea9-b2c7-aebff72103f5}</SharePointProjectItemId>
+    </None>
+    <None Include="ContactUsWebPart\ContactUsWebPart.webpart" />
+    <None Include="ContactUsWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{17556b55-7f55-4dd7-9628-2fe3c0b1a770}</SharePointProjectItemId>
+    </None>
+    <None Include="ControlTemplates\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{719c0427-910c-4e2a-a241-ca1bfaca8a32}</SharePointProjectItemId>
+    </None>
+    <None Include="CssClass\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{4fb2f563-573a-48e1-92c3-a7f415b2d06e}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\Feature1\Feature1.feature">
+      <FeatureId>{3b8c5ebd-819c-41bb-b8dc-d5322aeeed3a}</FeatureId>
+    </None>
+    <None Include="Features\Feature2\Feature2.feature">
+      <FeatureId>{7deec408-be5a-49c5-8ae2-b5287f787c34}</FeatureId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="LayoutPages\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3b6259c9-f669-4cf4-80cd-782c740bd20d}</SharePointProjectItemId>
+    </None>
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{5bf9eee2-ba96-4042-8ba5-c2a46d7cf0b0}</SharePointProjectItemId>
+    </None>
+    <None Include="LocationWebPart\LocationWebPart.webpart" />
+    <None Include="LocationWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{e71f6855-cc6f-4400-ba7d-22a4ca248046}</SharePointProjectItemId>
+    </None>
+    <None Include="MasterPagesGallery\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{0e050059-2532-4458-a220-feabe041032e}</SharePointProjectItemId>
+    </None>
+    <None Include="MasterPages\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{a1556f38-8b9c-4541-a0e9-32c3f7b7392a}</SharePointProjectItemId>
+    </None>
+    <None Include="MasterPages\_catalogs\masterpage\BrickRed.SmallBusiness.master">
+      <SubType>ASPXCodeBehind</SubType>
+    </None>
+    <None Include="Images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{591c5559-d55b-4444-8cd5-da29a8dad950}</SharePointProjectItemId>
+    </None>
+    <None Include="ServicesOffered\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{cc8b8996-2b6c-46b4-98f5-1b4f0574db9f}</SharePointProjectItemId>
+    </None>
+    <None Include="ServicesWebPart\ServicesWebPart.webpart" />
+    <None Include="ServicesWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3a34cc46-37ec-43df-ac33-50aa10fd3753}</SharePointProjectItemId>
+    </None>
+    <None Include="SiteDefinition\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ab3e98a0-9515-4af9-a971-12cb471a21d8}</SharePointProjectItemId>
+    </None>
+    <None Include="SiteDefinition\default.aspx" />
+    <None Include="SiteDefinition\onet.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SiteDefinition\webtemp_BrickRed.Templates.SmallBusiness.xml" />
+    <None Include="Themes\BrickRedSmallBusiness.thmx" />
+    <None Include="Themes\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{47257fc8-dd2a-4059-8249-ae5af7f22387}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Package\Package.package">
+      <PackageId>{a022303c-753d-4c72-9560-407493f3458b}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="BrickRed.SmallBusiness\Elements.xml" />
+    <Content Include="ContactUsWebPart\ContactUsWebPartUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="ContactUsWebPart\Elements.xml" />
+    <Content Include="ControlTemplates\BrickRed.Templates.SmallBusiness\BrickRed.SmallBusiness.ContactUsControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="ControlTemplates\BrickRed.Templates.SmallBusiness\FooterControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="CssClass\Style Library\en-us\Themable\Core Styles\BrickRed.SmallBusiness.css" />
+    <Content Include="CssClass\Elements.xml" />
+    <Content Include="Features\Feature1\Feature1.Template.xml">
+      <DependentUpon>Feature1.feature</DependentUpon>
+    </Content>
+    <Content Include="Features\Feature2\Feature2.Template.xml">
+      <DependentUpon>Feature2.feature</DependentUpon>
+    </Content>
+    <Content Include="Images\AboutUsBanner.jpg" />
+    <Content Include="Images\ContactUsBanner.jpg" />
+    <Content Include="Images\ContactUs_img1.jpg" />
+    <Content Include="Images\ContactUs_img2.jpg" />
+    <Content Include="Images\ContactUs_img3.jpg" />
+    <Content Include="Images\ContactUs_img4.jpg" />
+    <Content Include="Images\ContactUs_img5.jpg" />
+    <Content Include="Images\ContactUs_img6.jpg" />
+    <Content Include="Images\HomeBanner.jpg" />
+    <Content Include="Images\HomePage.png" />
+    <Content Include="Images\InnerPage.png" />
+    <Content Include="Images\QueryButton.jpg" />
+    <Content Include="Images\ServciesBanner.jpg" />
+    <Content Include="Images\SiteLogo.gif" />
+    <Content Include="Images\ThanksImg.jpg" />
+    <Content Include="Images\ThankyouBanner.jpg" />
+    <Content Include="LayoutPages\ContactUs.aspx" />
+    <Content Include="LayoutPages\Thanks.aspx" />
+    <Content Include="LayoutPages\Home.aspx" />
+    <Content Include="LayoutPages\Services.aspx" />
+    <Content Include="LayoutPages\AboutUs.aspx" />
+    <Content Include="LayoutPages\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Layouts\1033\BrickRed.SmallBusiness.js" />
+    <Content Include="Layouts\BrickRed.SmallBusiness.css" />
+    <Content Include="Layouts\BrickRed.Templates.SmallBusiness\jquery-1.6.2.min.js" />
+    <Content Include="LocationWebPart\Elements.xml" />
+    <Content Include="LocationWebPart\LocationWebPartUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="MasterPagesGallery\BrickRedSmallBusinessHomePageLayout.aspx" />
+    <Content Include="MasterPagesGallery\BrickRedSmallBusinessInnerPageLayout.aspx" />
+    <Content Include="MasterPagesGallery\BrickRedSmallBusinessContactUsPageLayout.aspx" />
+    <Content Include="MasterPagesGallery\Elements.xml" />
+    <Content Include="MasterPages\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Images\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Images\India.gif" />
+    <Content Include="Images\Netherlands.gif" />
+    <Content Include="Images\romania.gif" />
+    <Content Include="Images\uk.gif" />
+    <Content Include="Images\usa.gif" />
+    <Content Include="Images\worldwideLocationsMap.jpg" />
+    <Content Include="ServicesOffered\Elements.xml" />
+    <Content Include="ServicesOffered\Services_img1.jpg" />
+    <Content Include="ServicesOffered\Services_img2.jpg" />
+    <Content Include="ServicesOffered\Services_img3.jpg" />
+    <Content Include="ServicesOffered\Services_img4.jpg" />
+    <Content Include="ServicesWebPart\Elements.xml" />
+    <Content Include="ServicesWebPart\ServicesWebPartUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Themes\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>
