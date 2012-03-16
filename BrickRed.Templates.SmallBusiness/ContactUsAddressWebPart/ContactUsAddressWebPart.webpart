@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BrickRed.Templates.SmallBusiness.ContactUsAddressWebPart.ContactUsAddressWebPart, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Contact Us Address WebPart</property>
+        <property name="Description" type="string">Description for the Business office address</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

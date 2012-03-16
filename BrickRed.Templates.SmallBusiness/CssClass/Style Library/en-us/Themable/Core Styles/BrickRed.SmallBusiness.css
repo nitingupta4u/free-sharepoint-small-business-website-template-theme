@@ -2951,3 +2951,11 @@ a:hover
     padding: 0;
     color: #1DCCEF;
 }
+.contactUsImageContent
+{
+    text-align:left;
+    color:#00365C; 
+    font-size:1.4em; 
+    margin-left:75px;
+    padding-top:50px;
+}

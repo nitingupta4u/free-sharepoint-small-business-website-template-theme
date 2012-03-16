@@ -11,13 +11,15 @@
 	    <tr>
              <td valign="top" width="100%">
 			   <div style="width: 100%" >
-                    <div style="min-height: 60px; word-wrap: break-word">
-                        <p>
+                    <div style="word-wrap: break-word">
                             <PublishingWebControls:RichImageField id="ImageField" FieldName="PublishingPageImage" runat="server"/> 
-                        </p>                            
                     </div>
                 </div>
+                <div style="margin-top:-15px;">
+                <p>
                <WebPartPages:WebPartZone runat="server" FrameType="TitleBarOnly" ID="Top" Title="loc:Top" />
+               </p>
+               </div>
 		   </td>
          </tr>
       <tr>

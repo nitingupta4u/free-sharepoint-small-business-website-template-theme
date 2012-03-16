@@ -51,6 +51,9 @@ namespace BrickRed.Templates.SmallBusiness
         public const string ADMINMAILSUBJECT_VALUE = "Query raised by #FROMNAME# from #FROMCOMPANY#";
         public const string USERMAILSUBJECT_VALUE = "Your query has been received by our team";
 
+        //Value for the ontactUs Address
+        public const string CONTACTUSADDRESS_VALUE = "";
+
         
         
     }
