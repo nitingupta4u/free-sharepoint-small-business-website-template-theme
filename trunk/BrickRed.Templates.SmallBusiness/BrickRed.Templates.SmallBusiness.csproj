@@ -55,6 +55,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants.cs" />
+    <Compile Include="ContactUsAddressWebPart\ContactUsAddressWebPart.cs" />
+    <Compile Include="ContactUsAddressWebPart\ContactUsAddressWebPartUserControl.ascx.cs">
+      <DependentUpon>ContactUsAddressWebPartUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUsAddressWebPart\ContactUsAddressWebPartUserControl.ascx.designer.cs">
+      <DependentUpon>ContactUsAddressWebPartUserControl.ascx.cs</DependentUpon>
+    </Compile>
     <Compile Include="ContactUsWebPart\ContactUsWebPart.cs" />
     <Compile Include="ContactUsWebPart\ContactUsWebPartUserControl.ascx.cs">
       <DependentUpon>ContactUsWebPartUserControl.ascx</DependentUpon>
@@ -77,6 +85,7 @@
     <Compile Include="ControlTemplates\BrickRed.Templates.SmallBusiness\FooterControl.ascx.designer.cs">
       <DependentUpon>FooterControl.ascx.cs</DependentUpon>
     </Compile>
+    <Compile Include="EditorParts\ContactUsAddressEditorPart.cs" />
     <Compile Include="Features\Feature1\Feature1.EventReceiver.cs">
       <DependentUpon>Feature1.feature</DependentUpon>
     </Compile>
@@ -104,6 +113,10 @@
   <ItemGroup>
     <None Include="BrickRed.SmallBusiness\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{8e04be6c-77e9-4ea9-b2c7-aebff72103f5}</SharePointProjectItemId>
+    </None>
+    <None Include="ContactUsAddressWebPart\ContactUsAddressWebPart.webpart" />
+    <None Include="ContactUsAddressWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3af12726-81fd-43be-99bd-de593c9a9c0e}</SharePointProjectItemId>
     </None>
     <None Include="ContactUsWebPart\ContactUsWebPart.webpart" />
     <None Include="ContactUsWebPart\SharePointProjectItem.spdata">
@@ -175,6 +188,10 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="BrickRed.SmallBusiness\Elements.xml" />
+    <Content Include="ContactUsAddressWebPart\ContactUsAddressWebPartUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="ContactUsAddressWebPart\Elements.xml" />
     <Content Include="ContactUsWebPart\ContactUsWebPartUserControl.ascx">
       <SubType>ASPXCodeBehind</SubType>
     </Content>

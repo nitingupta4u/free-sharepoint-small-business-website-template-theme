@@ -137,7 +137,25 @@
     </File>
     <File Path="LayoutPages\ContactUs.aspx" Url="ContactUs.aspx" Type="GhostableInLibrary">
       <Property Name="Title" Value="Contact Us" />
-      <Property Name="PublishingPageImage" Value="&lt;img alt=&quot;Welcome&quot; src=&quot;~SiteCollection/PublishingImages/ContactUsBanner.jpg&quot; &gt;"></Property>
+      <AllUsersWebPart WebPartZoneID="Top" WebPartOrder="1">
+        <![CDATA[
+ <webParts>
+         <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BrickRed.Templates.SmallBusiness.ContactUsAddressWebPart.ContactUsAddressWebPart, BrickRed.Templates.SmallBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dd88d6021363d679" />      
+      <importErrorMessage>Cannot import Contact Us Web Part. Please contact administrator.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+      <property name="Title" type="string">Office Address</property>
+      <property name="Description" type="string">Description for Office Address WebPart</property>
+      <property name="ChromeType" type="chrometype">None</property>
+      </properties>
+    </data>
+  </webPart>
+        </webParts>
+             ]]>
+      </AllUsersWebPart>
       <AllUsersWebPart WebPartZoneID="Left" WebPartOrder="1">
         <![CDATA[
  <webParts>
@@ -156,39 +174,6 @@
         </webParts>
              ]]>
       </AllUsersWebPart>
-      <Property Name="PublishingPageContent" Value="&lt;table width=&quot;100%&quot;&gt;
-                &lt;tbody&gt;
-                  &lt;tr&gt;
-                    &lt;td valign=&quot;top&quot; width=&quot;10%&quot;&gt;
-                      &lt;p&gt;
-                        &lt;img title=&quot;Location 1&quot; alt=&quot;Location 1&quot; src=&quot;~site/PublishingImages/ContactUs_img3.jpg&quot;&gt;
-                      &lt;/p&gt;
-					  &lt;/td&gt;
-					  &lt;td valign=&quot;top&quot; &gt;
-                      &lt;h2&gt;
-                        &lt;strong style=&quot;margin-left:22px&quot;&gt;Company Name Pvt Ltd&lt;/strong&gt;                      
-                      &lt;/h2&gt;
-                      &lt;p style=&quot;margin-left:22px&quot;&gt;
-                      1234 ABC Lane
-                      &lt;br&gt;
-                      Drive 1234
-                      &lt;br&gt;
-                      Location
-                      &lt;br&gt;
-                      Phone: +1.234.567.8901
-					  &lt;br&gt;
-                      Fax: +1.234.567.8901
-					  &lt;br&gt;
-                      Email: yourcompany@email.com
-                      &lt;/p&gt;
-                    &lt;/td&gt;   
-                    &lt;td width=&quot;2%&quot;&gt;&lt;/td&gt;                          
-                  &lt;/tr&gt;
-                  &lt;tr&gt;
-                    &lt;td height=&quot;20&quot; colspan=&quot;3&quot;&gt;&lt;/td&gt;
-                  &lt;/tr&gt;
-                &lt;/tbody&gt;
-              &lt;/table&gt;"></Property>
       <Property Name="PublishingPageLayout"
                    Value="~SiteCollection/_catalogs/masterpage/BrickRedSmallBusinessContactUsPageLayout.aspx, ContactUs Page" />
       <Property Name="ContentType" Value="BrickRedSmallBusinessContentType" />
