@@ -123,6 +123,7 @@ runat="server" xmlns:o="urn:schemas-microsoft-com:office:office">
             <div class="page_R_border" id="RightBorderDiv">
                 <div class="clear">
                 </div>
+              <Sharepoint:SPSecurityTrimmedControl runat="server" Permissions="AddAndCustomizePages">
                 <div id="s4-ribbonrow" class="s4-pr s4-ribbonrowhidetitle">
                     <div id="s4-ribboncont">
                         <SharePoint:SPRibbon runat="server" PlaceholderElementId="RibbonContainer" CssFile="">
@@ -245,6 +246,7 @@ runat="server" xmlns:o="urn:schemas-microsoft-com:office:office">
                         </asp:UpdatePanel>
                     </div>
                 </div>
+            </SharePoint:SPSecurityTrimmedControl>
                 <div id="s4-workspace">
                     <div id="s4-bodyContainer">
                         <div id="s4-titlerow" class="s4-pr s4-notdlg s4-titlerowhidetitle">
