@@ -9,12 +9,14 @@ namespace BrickRed.Templates.SmallBusiness.ContactUsAddressWebPart
 
         public static string CompanyName { get; set; }
 
-        public static string CompanyAddress { get; set; }
+        public static string CompanyAddress { get ; set; }
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            string ImageURL = (SPContext.Current.Web.Site.ServerRelativeUrl + "/PublishingImages/ContactUsBanner.jpg").Replace("//","/");
+
             //Get the Div ID and Set the background image URL
-            divContactUsImage.Style.Add("background-image", SPContext.Current.Web.Site.ServerRelativeUrl + "/PublishingImages/ContactUsBanner.jpg");
+            divContactUsImage.Style.Add("background-image", ImageURL);
             if (!string.IsNullOrEmpty(CompanyName) && !string.IsNullOrEmpty(CompanyAddress))
             {
                 CompanyAddress = CompanyAddress.Replace("\r\n", "<br/>");

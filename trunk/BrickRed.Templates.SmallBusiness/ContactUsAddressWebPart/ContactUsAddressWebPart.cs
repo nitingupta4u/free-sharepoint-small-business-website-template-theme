@@ -19,8 +19,8 @@ namespace BrickRed.Templates.SmallBusiness.ContactUsAddressWebPart
 
 
         #region Webpart Properties
-        private string _companyName = "<b>Company Name Pvt Ltd</b>";
-        private string _companyAddress = "<br/>1234 ABC Lane<br />Drive 1234<br />Location<br />Phone: +1.234.567.8901<br />Fax: +1.234.567.8901<br />Email: yourcompany@email.com<br />";
+        private string _companyName = "Company Name Pvt Ltd";
+        private string _companyAddress = "\r\n1234 ABC Lane\r\nDrive 1234\r\nLocation\r\nPhone: +1.234.567.8901\r\nFax: +1.234.567.8901\r\nEmail: yourcompany@email.com\r\n";
 
         [WebBrowsable(false),
         Personalizable(PersonalizationScope.Shared)]
