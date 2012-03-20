@@ -1,0 +1,26 @@
+#summary This page provides help information about the Location web part & its properties.
+
+= What is Location Web Part =
+
+  * This template is developed for organizations to showcase their strategies and businesses. 
+  * End users that visit the portal,should know the loaction of the organization in order to contact.
+  * This web part is developed to cater the above requirement.
+
+= Web Part Properties configurable by Administrator =
+
+  * There are 2 properties in this web part that the Site administrator can configure.
+    # *Latitude* - Enter the latitude of the location of the company.		
+    # *Longitude* - Enter the longitude of the location of the company.
+    # *Title* - Enter the title of the marker to be displayed
+    # *Display Address* - Enter the company address to be displayed in the marker description.
+
+  * To find the latitude and longitude of any location from the URL's given below
+    * [http://universimmedia.pagesperso-orange.fr/geo/loc.htm Location 1]
+    * [http://www.gorissen.info/Pierre/maps/googleMapLocationv3.php Location 2]
+
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationProperties.jpg<br/>
+
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebpart.jpg
+
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
