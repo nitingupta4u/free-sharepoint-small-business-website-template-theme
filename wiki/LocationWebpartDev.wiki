@@ -12,8 +12,8 @@ The following components are part of the Location !WebPart which is used by the 
       * Title: This is the title of the marker placed on the google map.
       * Display Address: This will display the organization address on the marker.
  
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebPartDetails.jpg<br/>   
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ContactUsAddressProperty.jpg
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebpartDetails.jpg<br/>   
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationProperties.jpg
 
 == *Visual !WebPart* ==
    * LocationWebPart.cs* is the class that contain the properties needed to show the location on the google map.
