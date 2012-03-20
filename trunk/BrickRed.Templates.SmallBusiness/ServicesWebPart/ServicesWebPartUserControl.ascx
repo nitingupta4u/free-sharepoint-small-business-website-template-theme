@@ -38,13 +38,11 @@
     var siteURl = window.location.pathname;
     var index = siteURl.lastIndexOf("/");
     siteURl = siteURl.substring(0, index);
-    siteURl = siteURl.toLowerCase().replace("pages", "Lists/Services");
+    siteURl = siteURl.toLowerCase().replace("pages", "Lists/Services");     //actual list name here
 
 
     function ReadList() {
         var clientContext = SP.ClientContext.get_current();
-        //or use the syntax below for accessing a list that may not reside in the current site
-        //var clientContext = new SP.ClientContext(rootUrl);
 
         var myList = clientContext.get_web().get_lists().getByTitle('Services'); //actual list name here
 
@@ -53,8 +51,6 @@
         namedListItem = myList.getItems(camlQuery);
 
         clientContext.load(namedListItem);
-        //or use below to specify to load only the required properties for better performance
-        //clientContext.load(namedListItem, 'Include(field1, field2)');
 
         clientContext.executeQueryAsync(Function.createDelegate(this, this.onQuerySucceeded), Function.createDelegate(this, this.onQueryFailed));
     }
@@ -71,6 +67,7 @@
             rotatingImages = oListItem.get_item('FileLeafRef');               // gets the images name
             rotatingImagesDescription = oListItem.get_item('Description');    // gets the images description
             rotatingImagesTitle = oListItem.get_item('Title');                // gets the images title
+
             if (flag) {
                 innerImgHTML += "<a href=\"#\" class=\"show\"><img src=\"" + siteURl + "/" + rotatingImages + "\" alt=\"" + rotatingImagesTitle + "\" width=\"325\" height=\"233\" title=\"\" alt=\"\" rel=\"<h3>" + rotatingImagesTitle + " </h3>" + rotatingImagesDescription + " \"/></a>";
                 flag = false;
@@ -82,7 +79,8 @@
             rotatingImagesTitle = '';
             rotatingImagesDescription = '';
         }
-        innerImgHTML += "<div class='caption'><div class='content'></div>    </div>       ";
+
+        innerImgHTML += "<div class='caption'><div class='content'></div></div>";
         document.getElementById('gallery').innerHTML = innerImgHTML;
 
         //Execute the slideShow
