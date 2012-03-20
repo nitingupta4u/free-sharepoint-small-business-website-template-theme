@@ -11,9 +11,9 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
       * A Web scoped feature - Consisting of all the other modules (Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS). This feature also has a receiver which gets triggered when the feature is activated.
     # *!BrickRed.!SmallBusiness:* The custom content type for page layout
     # *!ContactUsWebPart:* The Query Us !WebPart that is a user can use to send queries to the site administrators.
-	# *!LocationWebPart:* The Location !WebPart is for adding the location of the organization on the google map embeded in the site.
-	# *!ServicesWebPart:* The Services !WebPart is for showing the services offered by the organization.
-	# *!ContactUsAddressWebPart:* The Contact Us Address !WebPart is for showing the organization contact details.
+    # *!LocationWebPart:* The Location !WebPart is for adding the location of the organization on the google map embeded in the site.
+    # *!ServicesWebPart:* The Services !WebPart is for showing the services offered by the organization.
+    # *!ContactUsAddressWebPart:* The Contact Us Address !WebPart is for showing the organization contact details.
     # *!ControlTemplates:* This folder contains the 2 custom user controls, which are placed in the 14 Hive under the !ControlTemplates folder within Templates.
       * Footer Control
       * Header Contact Us Control
@@ -23,7 +23,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     # *Layouts:* This is the 14 hive Layouts folder, which contains the JS files (*!BrickRed.!SmallBusiness.js & jquery-1.6.2.min.js*)
     # *!MasterPages:* This module contains the master page for the site (*!BrickRed.!SmallBusiness.master*), and places the same in the master page and page layout gallery on the site.
     # *!MasterPagesGallery:* This module contains the custom page layouts (*Home Page Layout and Inner Page Layout*) and places these in the Master Page and page layout gallery on the site.
-	# *!ServicesOffered:* This module contains the images of the services offered webpart and places them in the Service List of type Picture Library.
+    # *!ServicesOffered:* This module contains the images of the services offered webpart and places them in the Service List of type Picture Library.
     # *!SiteDefinition:* This contains the Onet.XML file which is the main component using which the site is created. Both the features are getting activated by default within this file.
     # *Themes:* This module contains the theme (*!BrickRedSmallBusiness.thmx*) file which is placed in the Themes gallery on the site.
     # *Constants.cs:* This class file contains all the global constants used in the solution
