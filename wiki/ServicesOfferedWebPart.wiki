@@ -1,0 +1,23 @@
+#summary This page guides how to customize Services Offered WebPart.
+
+= Introduction =
+
+Administrators can use their customized images as services offered images by replacing the existing images placed in the site.
+
+= Uploading own images =
+
+  # All the existing services images are kept in the Services library on the site.
+  # Update the description of the services image under the Description column.
+  # Heading on the image is shown from the Title column in the library.
+  # Any custom images that needs to be used needs to be uploaded in this list. Steps for the same are as below:
+    
+    * Open the site, Click Site Actions > View All Site Content
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ViewAllSiteContent.jpg
+    * Click on Services library
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ServicesList.jpg  
+    * You can upload your custom images in this library.
+	* Enter the Title and Description to be shown in the Webpart corresponding to the image
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ServicesOfferedProperty.jpg
+
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
