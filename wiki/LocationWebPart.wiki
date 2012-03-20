@@ -14,7 +14,7 @@
     # *Title* - Enter the title of the marker to be displayed
     # *Display Address* - Enter the company address to be displayed in the marker description.
 
-  * To find the latitude and longitude of any location from the URL's given below
+  * Find the latitude and longitude of any location from the URL's given below
     * [http://universimmedia.pagesperso-orange.fr/geo/loc.htm Location 1]
     * [http://www.gorissen.info/Pierre/maps/googleMapLocationv3.php Location 2]
 
