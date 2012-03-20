@@ -16,7 +16,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ContactUsAddressProperty.jpg
 
 == *Visual !WebPart* ==
-   *!LocationWebPart.cs* is the class that contain the properties needed to show the address on the webpar.
+   * LocationWebPart.cs* is the class that contain the properties needed to show the address on the webpar.
    *!LocationWebPartUserControl.ascx* is the file that contains the look and feel of the webpart.
 
 ----
