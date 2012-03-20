@@ -1,0 +1,23 @@
+#summary This page guides on how the Location Web Part works!
+
+= Components =
+
+The following components are part of the Location !WebPart which is used by the organization to show their office loaction on the google map.
+
+== *The actual Web Part* ==
+    * This is a *Visual web part* having a user control.
+    * *Web Part Properties:*
+      * Latitude: This is latitude of the organization.
+      * Longitude: This is longitude of the organization.
+      * Title: This is the title of the marker placed on the google map.
+      * Display Address: This will display the organization address on the marker.
+ 
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebPartDetails.jpg<br/>   
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ContactUsAddressProperty.jpg
+
+== *Visual !WebPart* ==
+   *!LocationWebPart.cs* is the class that contain the properties needed to show the address on the webpar.
+   *!LocationWebPartUserControl.ascx* is the file that contains the look and feel of the webpart.
+
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
