@@ -1,0 +1,21 @@
+#summary This page guides on how the Services Offered Web Part works!
+
+= Components =
+
+The following components are part of the Services Offered Web Part which is used by the organization to show the end user about the services offered by them.
+
+== *The actual Web Part* ==
+    * This is a *Visual web part* having a user control which comprises fields to capture the user data.
+    * *Services List* of type Picture Librry is created for the images to be shpwn in the webpart with the use of Jquery.
+    * *Title and Description*, column of the Services List is used tp show the Title and Description in the webpart.
+ 
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ServicesOfferedWebpart.jpg<br/>   
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ServicesOfferedProperty.jpg
+
+== *WebPart Property* ==
+    * The title and description is shown in the webpart as shown below
+	<br/>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ServiceOfferedDetail.jpg<br/>
+    * *!ServicesWebPartUserControl.ascx* is the file that contains the design and javascript/jquery to show the webpart.     
+
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
