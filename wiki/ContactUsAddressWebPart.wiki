@@ -4,6 +4,9 @@
 
   * This webpart displays the contact information of the organization on the banner image of the site.
 
+= Where Contact Us Web Part is used =
+  * It is used on the default contact us page of the site.
+
 = Web Part Properties configurable by Administrator =
 
   * There are 2 properties in this web part that the Site administrator can configure.
