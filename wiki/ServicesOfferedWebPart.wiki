@@ -4,6 +4,10 @@
 
 Administrators can use their customized images as services offered images by replacing the existing images placed in the site.
 
+= Where Services Web Part is used =
+  * It is used on the default home page of the site.
+
+
 = Uploading own images =
 
   # All the existing services images are kept in the Services library on the site.
