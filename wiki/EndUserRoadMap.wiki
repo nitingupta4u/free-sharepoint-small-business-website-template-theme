@@ -36,11 +36,11 @@ The following are the identified tasks that an end user or Administration can pe
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/LocationWebPartAdmin Using Location Web Part to:]
     * Configure Web Part properties to locate the organization on the google map.
 
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPart Service offered WebPart to:]
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPart Using Service offered WebPart to:]
     * Show the Services offered by the organization.
 	* Configure list items to show the the services offered in the webpart.
 
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ContactUsAddressWebPart Contact Us (Address) WebPart to:]
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ContactUsAddressWebPart Using Contact Us (Address) WebPart to:]
     * Configure Web Part properties to show the organization contact details.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifyTheme Modify the theme.]
