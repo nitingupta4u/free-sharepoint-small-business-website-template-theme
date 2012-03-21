@@ -21,6 +21,13 @@ Enabling anonymous access on a !SharePoint site has 2 steps:
   # After you click save, the web application will allow Anonymous access to be set, but you have to set this from the actual web site. So now, navigate to the top level site collection for the web application and click Site Actions > Site Settings > Site Permissions. From that menu you can click Anonymous Access:<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous5.jpg
     * From there select Entire Web Site and click OK.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ribbon_anonymous6.jpg
+  # Turn on the read access of the list (used by the Servics webpart)
+    * Click Start -> All programs -> Microsoft SharePoint 2010 Products -> SharePoint 2010 Management Shell
+	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/PowerShellStart.jpg
+    * Write the following script on the shell
+      * $webapp = Get-SPWebApplication "http://SERVER_URL"
+      * $webapp.ClientCallableSettings.AnonymousRestrictedTypes.Remove([microsoft.sharepoint.splist], "GetItems")
+      * $webapp.Update()
 
 That’s all you have to do, now the site will be available for browsing by anyone.
 
