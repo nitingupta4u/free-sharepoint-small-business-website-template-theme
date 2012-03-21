@@ -3,9 +3,9 @@
 == Template Deletion ==
 
   # Download ZIP package from [http://code.google.com/p/visual-studio-sharepoint-project-template/downloads/detail?name=SharePoint%20Project%20Template%20C%23%201.0.vsix&can=2&q=#makechanges here]
-  # This package contains a WSP file and a *UnInstall.bat* Batch file to retract and delete the wsp from !SharePoint.
-  # Edit the UnInstall.bat file and update the *SITE-URL* parameter to specify the web application url to retract the package from. Save and close the file.
-  # Execute the UnInstall.bat file. The package will be retracted and deleted from the site specified in the bat file. Refer to the screenshot below:<br/>	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Uninstall.jpg<br/>
+  # This package contains a WSP file and a *UnInstall.cmd* Batch file to retract and delete the wsp from !SharePoint.
+  # Edit the UnInstall.cmd file and update the *SITE-URL* parameter to specify the web application url to retract the package from. Save and close the file.
+  # Execute the UnInstall.cmd file. The package will be retracted and deleted from the site specified in the cmd file. Refer to the screenshot below:<br/>	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/Uninstall.jpg<br/>
   # Verify the removed package in !SharePoint Central Administration, by going to Start --> All Programs --> Microsoft !SharePoint 2010 Products --> !SharePoint 2010 Central Administration.
 
 ----
