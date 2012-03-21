@@ -3,7 +3,7 @@
 = What is Query Us Web Part =
 
   * This webpart send mails to the organization by the end user in order to query. 
-  * This webpart sends mail to the administrators of the organization.
+  * This webpart sends mail to the administrators and other specific users mentioned in the webpart property.
   * It also gives the option of sending the mail to the user if the "Send me a copy" field is checked.
 
 = Web Part Properties configurable by Administrator =
