@@ -4,22 +4,31 @@
 The following links will help a Developer understand and customize the template.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/CodeStructure Code Structure]
+    * This explains the code structure of the solution.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/SiteFeatures Site Features]
+    * This explains the site features within the solution
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ContentTypes_PageLayouts Custom Content Type and Page Layouts]
+    * This explains the Custom Content Type and Page Layouts used in the code.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/QueryUsWPDev Query Us Web Part (using Configuration List)]
+    * This explains the Query Us webpart and its configuration in the configuration list.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/LocationWebpartDev Location Web Part]
+    * This explains the configuraation and customization of Location webpart.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPartDev Service offered WebPart (using Picture library)]
+    * This explains the configuraation and customization of Services Offered by the company.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ContactUsAddressWebPartDev Contact Us (Address) WebPart]
+    * This explains the configuraation and customization of Location details of the organization.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/UserControlsDev Contact Us Header control and Footer Control using Configuration List]
+    * This explains the configuration of the Header and footer control used in the site.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/SiteElementsDev Master Page, JavaScript, Theme & CSS Class] 
+    * This explains the usage pf Master Page, JavaScript, Theme and CSS in the solution.
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme Back to Project Home]
