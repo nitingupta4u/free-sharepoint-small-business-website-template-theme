@@ -2,9 +2,9 @@
 
 = What is Query Us Web Part =
 
-  * This template is developed for organizations to showcase their strategies and businesses. 
-  * End users that visit the portal, have some queries regarding the organizations aspects, which they can submit and the same are sent to the site administrator.
-  * This web part is developed to cater the above requirement.
+  * This webpart is to send mails to the organization by the end user in order to query. 
+  * This webpart sends mail to the administrators of the organization.
+  * It also gives the option of sending the mail to the user if the "Send me a copy" field is checked.
 
 = Web Part Properties configurable by Administrator =
 
