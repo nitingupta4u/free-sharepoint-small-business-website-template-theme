@@ -11,7 +11,7 @@ Configuration List is a list that is storing the following content of the site i
 = Where Configuration List is used =
   * Displaying the content in the header control.
   * Displaying the content in the footer control.
-  * Mail templates used in Query Us !webpart.
+  * Mail templates used in Query Us webpart.
 
 = Update Header & Footer Content =
 
