@@ -6,6 +6,8 @@ The following components are part of the Query Us Web Part which is used by the 
 
 == *The actual Web Part* ==
     * This is a *Visual web part* having a user control which comprises fields to capture the user data.
+	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/QueryUsWebPartSolution.jpg
+
     * *Send Me a copy* field, which if checked, sends a mail to the user itself who is sending the query.
     * *Send Query button*, which processes the user input and sends query to the administrators.    
     * *Web Part Properties:*
