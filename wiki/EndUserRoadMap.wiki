@@ -5,36 +5,43 @@
 The following are the identified tasks that an end user or Administration can perform on the created site.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/CreateSite Create your portal in SharePoint 2010 using Small Business Site Template with step by step guide] 
+    * This will guide to how to make the sharepoint site using this project template.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/AnonymousAccess Set Anonymous access on site]
+    * This will guide how to set the anonymous access on for anonymous users on the site.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/LoginAsAdmnistrator Login as Administrator]
+    * This will help administrator to login the site once the anonymous access is set on.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifyingImages Modifying Site Logo and other images]
+    * This will help the administrator to modify the site logo as well as the all the other images used in the site.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPart Modifying Services Offered images and description]
+    * This will help the administrator to configure the Services offered webpart images, title and description.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifyingSiteContent Modifying Site Content]
+    * This will help the administrator to change the content on the page eg, text written on the About Us page.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/CreatePages Create internal pages using Custom Page layouts]
+    * This will help the administrator, how to create a new page and change the layout of any page.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ConfigListHeaderFooter Using Configuration list to:]
-    # Update the Contact Us header value
-    # Update the Footer value
+    * Update the Contact Us header value
+    * Update the Footer value
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/QueryUsWebPart Using Query Us Web Part to:]
-    # Configure Web Part properties to send mail to administrators or other users
-    # Configure Mail templates from Configuration list to send Admin mail or self mails.
+    * Configure Web Part properties to send mail to administrators or other users
+    * Configure Mail templates from Configuration list to send Admin mail or self mails.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/LocationWebPartAdmin Using Location Web Part to:]
-    # Configure Web Part properties to locate the organization on the google map.
+    * Configure Web Part properties to locate the organization on the google map.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPart Service offered WebPart to:]
-    # Show the Services offered by the organization.
-	# Configure list items to show the the services offered in the webpart.
+    * Show the Services offered by the organization.
+	* Configure list items to show the the services offered in the webpart.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ContactUsAddressWebPart Contact Us (Address) WebPart to:]
-    # Configure Web Part properties to show the organization contact details.
+    * Configure Web Part properties to show the organization contact details.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifyTheme Modify the theme.]
 
