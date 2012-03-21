@@ -6,6 +6,8 @@ The following components are part of the Location !WebPart which is used by the 
 
 == *The actual Web Part* ==
     * This is a *Visual web part* having a user control.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebpartSolution.jpg
+
     * *Web Part Properties:*
       * Latitude: This is latitude of the organization.
       * Longitude: This is longitude of the organization.
@@ -16,8 +18,11 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationProperties.jpg
 
 == *Visual !WebPart* ==
-   * LocationWebPart.cs* is the class that contain the properties needed to show the location on the google map.
-   * LocationWebPartUserControl.ascx* is the file that contains the look & feel and javascript/jQuery of the webpart.
+   * !LocationWebPart.cs* is the class that contain the properties needed to show the location on the google map.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebPart.cs.jpg
+
+   * !LocationWebPartUserControl.ascx* is the file that contains the look & feel and javascript/jQuery of the webpart.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebPart.ascx.jpg
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
