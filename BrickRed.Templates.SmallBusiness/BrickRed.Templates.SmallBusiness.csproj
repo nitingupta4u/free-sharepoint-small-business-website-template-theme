@@ -238,9 +238,7 @@
     <Content Include="Layouts\BrickRed.SmallBusiness.css" />
     <Content Include="Layouts\BrickRed.Templates.SmallBusiness\jquery-1.6.2.min.js" />
     <Content Include="LocationWebPart\Elements.xml" />
-    <Content Include="LocationWebPart\LocationWebPartUserControl.ascx">
-      <SubType>ASPXCodeBehind</SubType>
-    </Content>
+    <Content Include="LocationWebPart\LocationWebPartUserControl.ascx" />
     <Content Include="MasterPagesGallery\BrickRedSmallBusinessHomePageLayout.aspx" />
     <Content Include="MasterPagesGallery\BrickRedSmallBusinessInnerPageLayout.aspx" />
     <Content Include="MasterPagesGallery\BrickRedSmallBusinessContactUsPageLayout.aspx" />
