@@ -6,7 +6,7 @@
   * It gives the functionality to mark the location using the google marker by just specifying the coordinates.   
 
 = Where Location Web Part is used =
-  * It is used on all the default contact us page of the site.
+  * It is used on the default contact us page of the site.
 
 
 = Web Part Properties configurable by Administrator =
