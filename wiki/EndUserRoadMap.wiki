@@ -49,5 +49,8 @@ The following are the identified tasks that an end user or Administration can pe
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifySiteElements Modify Site elements (MasterPage, CSS)]
     * This will help the administrator to customize the master page and css of the site.
 
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ConfigureFacebook Configure facebook WebPart]
+    * This will help the administrator to configure the Facebook webpart on the site
+
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme Back to Project Home]
