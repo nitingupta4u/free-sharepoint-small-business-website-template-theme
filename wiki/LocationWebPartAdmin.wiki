@@ -2,9 +2,8 @@
 
 = What is Location Web Part =
 
-  * This template is developed for organizations to showcase their strategies and businesses. 
-  * End users that visit the portal,should know the loaction of the organization in order to contact.
-  * This web part is developed to cater the above requirement.
+  * This webpart is used to show the location of the organization on the google map.
+  * It gives the functionality to mark the location using the google marker by just specifying the coordinates.   
 
 = Web Part Properties configurable by Administrator =
 
