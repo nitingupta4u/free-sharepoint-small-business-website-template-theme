@@ -8,6 +8,11 @@ Configuration List is a list that is storing the following content of the site i
   # Admin Email content and subject
   # Self Email content and subject
 
+= Where Configuration List is used =
+  * Displaying the content in the header control.
+  * Displaying the content in the footer control.
+  * Mail templates used in Query Us !webpart.
+
 = Update Header & Footer Content =
 
   # Go to Site Actions -> View All Site Content -> Configurations<br>http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ConfigurationsList.jpg
