@@ -1,0 +1,11 @@
+#summary This page guides you how to login as administrator
+
+= Login as Administrator =
+
+  # Open !SharePoint site with the following URL 
+    * http://SERVERURL/_layouts/settings.aspx
+  # Now sharepoint will ask for the credentials.
+  # Enter the admin credentials and proceed further.
+
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
