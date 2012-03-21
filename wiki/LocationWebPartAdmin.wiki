@@ -14,8 +14,8 @@
     # *Display Address* - Enter the company address to be displayed in the marker description.
 
   * Find the latitude and longitude of any location from the URL's given below
-    * [http://universimmedia.pagesperso-orange.fr/geo/loc.htm Location 1]
-    * [http://www.gorissen.info/Pierre/maps/googleMapLocationv3.php Location 2]
+    * http://universimmedia.pagesperso-orange.fr/geo/loc.htm 
+    * http://www.gorissen.info/Pierre/maps/googleMapLocationv3.php
 
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationProperties.jpg<br/>
 
