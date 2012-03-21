@@ -26,6 +26,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
         * Replaces tokens from Mail Body with dynamic user values
         * Replaces tokens from Mail subject with dynamic user values
         * Sends Mail.   
+	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/SendMail.cs.jpg
     * *Constants.cs* is the class that contains all the constant values used in the solution. 
       * The default values of Admin Mail and Self Mail content / subject which are there in the configuration list are also stored in this class. 
       * Also, the list item identity names for these mail objects are placed in this class.
