@@ -16,5 +16,7 @@ The content on the site pages is simple plain text that can be edited directly u
 
 You will be able to see the page with updated content.
 
+  * *Note:* Publish all the pages that had been edited in order to view the pages to the anonymous users.
+
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
