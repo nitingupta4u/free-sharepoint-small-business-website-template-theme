@@ -1,1 +1,23 @@
-xc 
+#summary This page provides help information about the Facebook Show Wall web part
+
+= What is Facebook Show Wall Web Part =
+
+  * This webpart is used to show the facebook updates of the user on the site.
+
+= Where Facebook Show Wall Web Part is used =
+  * It is used on the default home page of the site.
+
+
+= Adding Web Part=
+  * [http://code.google.com/p/sharepoint-facebook-wall/wiki/Installation Installing web part.]
+    * This will help to install the solution to the site.
+  * [http://code.google.com/p/sharepoint-facebook-wall/wiki/ApplicationRegistrationFacebook Register your application on Facebook]
+    * This will help to register the facebook application which will allpw to get the updates from the Facebook
+  * [http://code.google.com/p/sharepoint-facebook-wall/wiki/ShowWallConfiguration Configure ths Show Wall webpart]
+    * This will help the administrator to configure the facebook Show Wall webpart.
+
+  * *Note:* To know more of Facebook !WebParts click [http://code.google.com/p/sharepoint-facebook-wall here.]
+
+
+----
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
