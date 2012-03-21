@@ -25,7 +25,7 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     * Click Start -> All programs -> Microsoft SharePoint 2010 Products -> SharePoint 2010 Management Shell
 	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/PowerShellStart.jpg
     * Write the following script on the shell
-      * $webapp = Get-SPWebApplication !"http://SERVER_URL"
+      * $webapp = Get-SPWebApplication "http://SERVER_URL"
       * $webapp.!ClientCallableSettings.!AnonymousRestrictedTypes.Remove([microsoft.sharepoint.splist], "!GetItems")
       * $webapp.Update()
 
