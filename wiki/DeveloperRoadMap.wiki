@@ -28,7 +28,7 @@ The following links will help a Developer understand and customize the template.
     * This explains the configuration of the Header and footer control used in the site.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/SiteElementsDev Master Page, JavaScript, Theme & CSS Class] 
-    * This explains the usage pf Master Page, JavaScript, Theme and CSS in the solution.
+    * This explains the usage of Master Page, !JavaScript, Theme and CSS in the solution.
 
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme Back to Project Home]
