@@ -5,7 +5,7 @@
   * This webpart is used to show the location of the organization on the google map.
   * It gives the functionality to mark the location using the google marker by just specifying the coordinates.   
 
-= Where Location Web Part is used ?=
+= Where Location Web Part is used =
   * It is used on all the default contact us page of the site.
 
 
