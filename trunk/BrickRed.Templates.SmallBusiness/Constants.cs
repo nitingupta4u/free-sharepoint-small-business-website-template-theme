@@ -40,7 +40,8 @@ namespace BrickRed.Templates.SmallBusiness
         public const string CONFIG_LIST_USERMAILVALUE = "UserMailContent"; //Config List User mail Value name
         public const string CONFIG_LIST_ADMINMAILSUBJECT = "AdminMailSubject"; //Config List Admin mail Value name
         public const string CONFIG_LIST_USERMAILSUBJECT = "UserMailSubject"; //Config List User mail Value name
-        
+        public const string SERVICES_LIST_NAME = "Services"; //Services Offered List name
+
         //Values of Contact control, footer control
         public const string CONTACT_CONTROL_VALUE = "<table style='width:100%;' cellpadding='2'><tr><td style='border-right-style:dotted; border-right-width:thin;' colspan='4'>+1.703.666.8801</td><td style='border-right-style:dotted; border-right-width:thin;' colspan='4'>+44.208.816.7516</td><td style='border-right-style:dotted; border-right-width:thin;' colspan='4'>+31.020.894.6477</td><td colspan='4'><a href='mailto:contact@mycompany.com'>contact@mycompany.com</a></td></tr></table>";
         public const string FOOTER_VALUE = "Copyright © 2012 Your Company Pvt. Ltd. All Rights Reserved.";
@@ -53,8 +54,5 @@ namespace BrickRed.Templates.SmallBusiness
 
         //Value for the ontactUs Address
         public const string CONTACTUSADDRESS_VALUE = "";
-
-        
-        
     }
 }
