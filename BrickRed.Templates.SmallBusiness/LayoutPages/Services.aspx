@@ -26,10 +26,8 @@
 		  <tr>
 		   <td valign="top">
 			    <div style="width: 100%" >
-                    <div style="min-height: 60px; word-wrap: break-word">
-                        <p>
+                    <div style="min-height: 1px; word-wrap: break-word">
                             <PublishingWebControls:RichHtmlField id="Content" FieldName="PublishingPageContent" runat="server"/>  
-                        </p>                            
                     </div>
                 </div>
                <WebPartPages:WebPartZone runat="server" FrameType="TitleBarOnly" ID="Left" Title="loc:Left" />			  
