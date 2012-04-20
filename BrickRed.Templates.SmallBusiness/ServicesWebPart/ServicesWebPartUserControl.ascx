@@ -23,77 +23,9 @@
 
 <script type="text/javascript">
 
-    $(document).ready(function () {
-        ExecuteOrDelayUntilScriptLoaded(ReadList, "sp.js");   //this is necessary to ensure the library is loaded before function triggered
-    });
+    function ShowServicesSlides(html) {
 
-    var namedListItem;
-    var c = 0;
-    var t;
-    var rotatingImages = '';
-    var rotatingImagesTitle = '';
-    var rotatingImagesDescription = '';
-    var temp = 0;
-    var innerImgHTML = '';
-    var siteURl = window.location.pathname;
-    var index = siteURl.lastIndexOf("/");
-    siteURl = siteURl.substring(0, index);
-    siteURl = siteURl.toLowerCase().replace("pages", "Lists/Services");     //actual list name here
-
-
-    function ReadList() {
-        var clientContext = SP.ClientContext.get_current();
-
-        var myList = clientContext.get_web().get_lists().getByTitle('Services'); //actual list name here
-
-        var camlQuery = new SP.CamlQuery();
-        camlQuery.set_viewXml('<OrderBy><FieldRef Name="FileLeafRef" /></OrderBy>'); //caml statement goes here between the single quotes
-        namedListItem = myList.getItems(camlQuery);
-
-        clientContext.load(namedListItem);
-
-        clientContext.executeQueryAsync(Function.createDelegate(this, this.onQuerySucceeded), Function.createDelegate(this, this.onQueryFailed));
-    }
-
-    function onQuerySucceeded(sender, args) {
-        var listItemInfo = '';
-        var flag = true;
-
-        var listItemEnumerator = namedListItem.getEnumerator();
-
-        while (listItemEnumerator.moveNext()) {
-            var oListItem = listItemEnumerator.get_current();
-
-            rotatingImages = oListItem.get_item('FileLeafRef');               // gets the images name
-            rotatingImagesDescription = oListItem.get_item('Description');    // gets the images description
-            rotatingImagesTitle = oListItem.get_item('Title');                // gets the images title
-
-            if (flag) {
-                innerImgHTML += "<a href=\"#\" class=\"show\"><img src=\"" + siteURl + "/" + rotatingImages + "\" alt=\"" + rotatingImagesTitle + "\" width=\"325\" height=\"233\" title=\"\" alt=\"\" rel=\"<h3>" + rotatingImagesTitle + " </h3>" + rotatingImagesDescription + " \"/></a>";
-                flag = false;
-            }
-            else {
-                innerImgHTML += "<a href=\"#\"><img src=\"" + siteURl + "/" + rotatingImages + "\" alt=\"" + rotatingImagesTitle + "\" width=\"325\" height=\"233\" title=\"\" alt=\"\" rel=\"<h3>" + rotatingImagesTitle + " </h3>" + rotatingImagesDescription + " \"/></a>";
-            }
-            rotatingImages = '';
-            rotatingImagesTitle = '';
-            rotatingImagesDescription = '';
-        }
-
-        innerImgHTML += "<div class='caption'><div class='content'></div></div>";
-        document.getElementById('gallery').innerHTML = innerImgHTML;
-
-        //Execute the slideShow
-        slideShow();
-    }
-
-    // if the Query Gets Failed
-    function onQueryFailed(sender, args) {
-
-        alert('Request failed. ' + args.get_message() + '\n' + args.get_stackTrace());
-    }
-
-    function slideShow() {
+        document.getElementById('gallery').innerHTML = html;
 
         //Set the opacity of all images to 0
         $('#gallery a').css({ opacity: 0.0 });
