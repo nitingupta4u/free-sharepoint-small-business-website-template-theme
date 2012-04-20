@@ -45,74 +45,24 @@
     <File Path="LayoutPages\Services.aspx" Url="Services.aspx" Type="GhostableInLibrary">
       <Property Name="Title" Value="Services" />
       <Property Name="PublishingPageImage" Value="&lt;img alt=&quot;Welcome&quot; src=&quot;~SiteCollection/PublishingImages/ServciesBanner.jpg&quot; &gt;"></Property>
-      <Property Name="PublishingPageContent" Value="&lt;div align=&quot;justify&quot;&gt;&lt;table&gt;
-                &lt;tr&gt;
-                  &lt;td class=&quot;sp4-pageTitle&quot; &gt;
-                    &lt;strong&gt;Our Services&lt;/strong&gt;
-                  &lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                  &lt;td&gt;
-                      &lt;div class=&quot;sp4-pageSubTitle&quot; &gt;Lorem ipsum&lt;/div&gt;
-                      &lt;div&gt;
-                        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis turpis eros, mattis et vestibulum in, suscipit et metus. Duis nec placerat felis. Nam eget pulvinar sem. Sed dictum gravida lobortis. Phasellus ut pretium diam. Vestibulum vel velit magna, congue sollicitudin orci. Donec quis mauris at ante volutpat ornare. Nulla metus enim, fringilla at eleifend a, pulvinar a turpis. Sed ut laoreet libero. Ut ipsum felis, varius eget pharetra et, mattis vitae augue. Aliquam erat volutpat. Quisque viverra turpis ut lorem gravida accumsan. Integer est risus, aliquam eget convallis id, malesuada vitae nunc. Ut eu ipsum velit, eget semper dui. &lt;/p&gt;
-                        &lt;p&gt;Suspendisse laoreet, nulla vitae volutpat commodo, nulla nunc porta risus, eget laoreet nunc augue in felis. Quisque sed felis felis, a dictum felis. Nullam vulputate rhoncus odio, vitae tincidunt nisl vehicula eget. Donec porttitor ante orci, nec luctus elit. Vivamus massa augue, consectetur in tempus sit amet, rhoncus tristique neque. Nam elit nibh, euismod auctor tristique ut, tincidunt sed nibh. Duis tempor, dui sit amet condimentum ullamcorper, eros risus interdum nulla, ut facilisis sapien neque nec urna. Suspendisse urna lorem, rutrum ac varius vel, tempor eget risus. Suspendisse potenti. Etiam tempus gravida erat, ut commodo leo vulputate non. Praesent et risus nisl. Mauris pharetra pellentesque enim, non pulvinar tortor eleifend congue. &lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;div&gt;
-                      &lt;span class=&quot;sp4-pageSubTitle&quot;&gt;Suspendisse laoreet&lt;/span&gt;&lt;/br&gt;
-                      &lt;p&gt;Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum. Donec nec nisl dolor. Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. Suspendisse vehicula porta urna, ac lobortis nisl viverra at. Curabitur ac velit nibh. Mauris molestie, nibh quis vestibulum fringilla, arcu eros hendrerit mi, id tempor odio lacus in quam. Mauris tristique urna eget est condimentum mattis. Sed nec lacus massa, ut dignissim elit. Vivamus augue libero, varius dictum pretium quis, auctor eget urna. Donec semper luctus dolor, at dapibus nunc fermentum a.&lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;div&gt;
-                      &lt;span class=&quot;sp4-pageSubTitle&quot;&gt;Integer commodo&lt;/span&gt;&lt;/br&gt;
-                      &lt;p&gt;Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum. Donec nec nisl dolor. Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. Suspendisse vehicula porta urna, ac lobortis nisl viverra at. Curabitur ac velit nibh. Mauris molestie, nibh quis vestibulum fringilla, arcu eros hendrerit mi, id tempor odio lacus in quam. Mauris tristique urna eget est condimentum mattis. Sed nec lacus massa, ut dignissim elit. Vivamus augue libero, varius dictum pretium quis, auctor eget urna. Donec semper luctus dolor, at dapibus nunc fermentum a. &lt;/p&gt;
-                    &lt;/div&gt;
-                    &lt;div&gt;
-                      &lt;table class=&quot;content_table&quot;&gt;
-                        &lt;tbody&gt;
-                          &lt;tr class=&quot;content_tr_titles&quot;&gt;
-                            &lt;td class=&quot;content_td_title&quot; align=&quot;left&quot; width=&quot;16%&quot; valign=&quot;top&quot;&gt;Proin rutrum&lt;&lt;/td&gt;
-                            &lt;td class=&quot;content_td_title&quot; width=&quot;22%&quot; valign=&quot;top&quot;&gt;viverra rhoncus&lt;/td&gt;
-                            &lt;td class=&quot;content_td_title&quot; width=&quot;40%&quot; valign=&quot;top&quot;&gt;Fusce vel ipsum&lt;/td&gt;
-                            &lt;td class=&quot;content_td_title&quot; width=&quot;22%&quot; valign=&quot;top&quot;&gt;tempus auctor&lt;/td&gt;
-                          &lt;/tr&gt;
-                          &lt;tr class=&quot;content_tr_odd&quot;&gt;
-                            &lt;td class=&quot;content_td&quot; align=&quot;left&quot; valign=&quot;top&quot;&gt;Mauris tristique&lt;/td&gt;
-                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;rhoncus mauris&lt;/td&gt;
-                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;
-                              &lt;ul class=&quot;newOL&quot;&gt;
-                                &lt;li&gt;Suspendisse luctus&lt;/li&gt;
-                                &lt;li&gt;libero aliquet&lt;/li&gt;
-                                &lt;li&gt;ornare blandit&lt;/li&gt;
-                                &lt;li&gt;felis lorem&lt;/li&gt;
-                              &lt;/ul&gt;
-                            &lt;/td&gt;
-                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;Nullam tempus lacinia euismod&lt;/td&gt;
-                          &lt;/tr&gt;
-                          &lt;tr class=&quot;content_tr_even&quot;&gt;
-                            &lt;td class=&quot;content_td&quot; align=&quot;left&quot; valign=&quot;top&quot;&gt;Suspendisse potent&lt;/td&gt;
-                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;Etiam tempus&lt;/td&gt;
-                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;
-                              &lt;ul class=&quot;newOL&quot;&gt;
-                                &lt;li&gt;Praesent et risus nisl.&lt;/li&gt;
-                                &lt;li&gt;Mauris pharetra pellentesque enim&lt;/li&gt;
-                                &lt;li&gt;non pulvinar tortor eleifend congue&lt;/li&gt;
-                                &lt;li&gt;nteger commodo dui id nulla accumsan&lt;/li&gt;
-                              &lt;/ul&gt;
-                            &lt;/td&gt;
-                            &lt;td class=&quot;content_td&quot; valign=&quot;top&quot;&gt;
-                              &lt;ul class=&quot;newOL&quot;&gt;
-                                &lt;li&gt;Curabitur ac &lt;/li&gt;
-                                &lt;li&gt;velit nibh&lt;/li&gt;
-                                &lt;li&gt;Mauris molestie&lt;/li&gt;
-                              &lt;/ul&gt;
-                            &lt;/td&gt;
-                          &lt;/tr&gt;
-                        &lt;/tbody&gt;
-                      &lt;/table&gt;
-                    &lt;/div&gt;
-                  &lt;/td&gt;
-                &lt;/tr&gt;
-              &lt;/table&gt;&lt;/div&gt;"></Property>
+      <AllUsersWebPart WebPartZoneID="Left" WebPartOrder="1">
+        <![CDATA[
+ <webParts>
+         <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="BrickRed.Templates.SmallBusiness.DetailedServicesOffered.DetailedServicesOffered, BrickRed.Templates.SmallBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dd88d6021363d679" />      
+      <importErrorMessage>Cannot import Contact Us Web Part. Please contact administrator.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Our Services</property>
+        <property name="Description" type="string">Description for Services offered by the company</property>
+      </properties>
+    </data>
+  </webPart>
+        </webParts>
+             ]]>
+      </AllUsersWebPart>
       <Property Name="PublishingPageLayout"
                     Value="~SiteCollection/_catalogs/masterpage/BrickRedSmallBusinessInnerPageLayout.aspx, Inner Page" />
       <Property Name="ContentType" Value="BrickRed Small Business" />
