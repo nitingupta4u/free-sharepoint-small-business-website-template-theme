@@ -43,12 +43,12 @@ namespace BrickRed.Templates.SmallBusiness.Features.Feature1
 
     [Guid("4e456b7d-1315-4192-a57d-3fd4d8e78235")]
     public class Feature1EventReceiver : SPFeatureReceiver
-    {        
+    {
         public override void FeatureActivated(SPFeatureReceiverProperties properties)
         {
             try
             {
-                SPList objPagesList = null;               
+                SPList objPagesList = null;
                 Guid ListId;
 
                 SPSite site = properties.Feature.Parent as SPSite;
@@ -68,7 +68,7 @@ namespace BrickRed.Templates.SmallBusiness.Features.Feature1
 
                 //Assign default page of the site to home.aspx
                 PublishingWeb objPublishingWeb = PublishingWeb.GetPublishingWeb(web);
-                SPFile objHomePageFile = web.GetFile(objPublishingWeb.PagesListName + "/Home.aspx");             
+                SPFile objHomePageFile = web.GetFile(objPublishingWeb.PagesListName + "/Home.aspx");
                 objPublishingWeb.DefaultPage = objHomePageFile;
                 objPublishingWeb.Update();
                 web.Update();
@@ -82,7 +82,7 @@ namespace BrickRed.Templates.SmallBusiness.Features.Feature1
                         page.IncludeInGlobalNavigation = false;
                     }
                 }
-                         
+
                 //Delete default.aspx page created when activated publishing feature
                 //Get the Pages List for current Locale
                 ListId = PublishingWeb.GetPagesListId(web);
@@ -107,20 +107,20 @@ namespace BrickRed.Templates.SmallBusiness.Features.Feature1
 
                 //Create Config List
                 SPList configList;
-                configList = web.Lists.TryGetList(Constants.CONFIG_LIST);              
+                configList = web.Lists.TryGetList(Constants.CONFIG_LIST);
                 if (configList == null)
                 {
                     web.Lists.Add(Constants.CONFIG_LIST, "This list contains the HTML for the Global Contact Us Control, Footer, Admin & Self Mail contents and subjects", SPListTemplateType.GenericList);
                     configList = web.Lists.TryGetList(Constants.CONFIG_LIST);
                 }
-                 
+
                 //Add Columns in List
                 if (configList != null)
                 {
                     if (!configList.Fields.ContainsField("Value"))
                     {
                         string FieldXML = "<Field Type='Note' Description='The list of Tokens that can be provided in this column are: \nName of User: #FROMNAME#\nCompany: #FROMCOMPANY#\nPhone: #FROMPHONE#\nEmail: #FROMEMAIL#\nUser Query: #BODY#' DisplayName='Value' Required='TRUE' NumLines='6' StaticName='Value' Name='Value' RichText='TRUE' RichTextMode='FullHtml' IsolateStyles='FALSE' />";
-                        configList.Fields.AddFieldAsXml(FieldXML, true, SPAddFieldOptions.Default); 
+                        configList.Fields.AddFieldAsXml(FieldXML, true, SPAddFieldOptions.Default);
                         //configList.Fields.Add("Value", SPFieldType.Note, false);
                         configList.Update();
                     }
@@ -168,7 +168,7 @@ namespace BrickRed.Templates.SmallBusiness.Features.Feature1
 
                 #endregion
 
-                #region Set Default page layout 
+                #region Set Default page layout
 
                 //Set default page layout of site to internal page layout                
                 if (objPublishingWeb != null)
@@ -192,6 +192,38 @@ namespace BrickRed.Templates.SmallBusiness.Features.Feature1
 
                 #endregion
 
+                #region Add Column and Item to the Service List
+
+                SPList servicesList = web.Lists.TryGetList(Constants.SERVICES_LIST_NAME);
+                if (servicesList != null)
+                {
+
+                    if (!servicesList.Fields.ContainsField("DetailedDescription"))
+                    {
+                        //create the column if it does not exists
+                        string FieldXML = "<Field Type='Note' Description='Displays the detailed description of the services offered' DisplayName='Detailed Description' Required='TRUE' NumLines='6' StaticName='DetailedDescription' Name='DetailedDescription' RichText='TRUE' RichTextMode='FullHtml' IsolateStyles='FALSE' UnlimitedLengthInDocumentLibrary='TRUE'/>";
+                        servicesList.Fields.AddFieldAsXml(FieldXML, true, SPAddFieldOptions.Default);
+                        servicesList.Update();
+
+                        string[] DETAILED_DESCRIPTION_SERVICE = { "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis turpis eros, mattis et vestibulum in, suscipit et metus. Duis nec placerat felis. Nam eget pulvinar sem. Sed dictum gravida lobortis. Phasellus ut pretium diam. Vestibulum vel velit magna, congue sollicitudin orci. Donec quis mauris at ante volutpat ornare. Nulla metus enim, fringilla at eleifend a, pulvinar a turpis. Sed ut laoreet libero. Ut ipsum felis, varius eget pharetra et, mattis vitae augue. Aliquam erat volutpat. Quisque viverra turpis ut lorem gravida accumsan. Integer est risus, aliquam eget convallis id, malesuada vitae nunc. Ut eu ipsum velit, eget semper dui. </p>", 
+                                                                    "<p>Suspendisse laoreet, nulla vitae volutpat commodo, nulla nunc porta risus, eget laoreet nunc augue in felis. Quisque sed felis felis, a dictum felis. Nullam vulputate rhoncus odio, vitae tincidunt nisl vehicula eget. Donec porttitor ante orci, nec luctus elit. Vivamus massa augue, consectetur in tempus sit amet, rhoncus tristique neque. Nam elit nibh, euismod auctor tristique ut, tincidunt sed nibh. Duis tempor, dui sit amet condimentum ullamcorper, eros risus interdum nulla, ut facilisis sapien neque nec urna. Suspendisse urna lorem, rutrum ac varius vel, tempor eget risus. Suspendisse potenti. Etiam tempus gravida erat, ut commodo leo vulputate non. Praesent et risus nisl. Mauris pharetra pellentesque enim, non pulvinar tortor eleifend congue.</p>",
+                                                                    "<p>Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum. Donec nec nisl dolor. Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. Suspendisse vehicula porta urna, ac lobortis nisl viverra at. Curabitur ac velit nibh. Mauris molestie, nibh quis vestibulum fringilla, arcu eros hendrerit mi, id tempor odio lacus in quam. Mauris tristique urna eget est condimentum mattis. Sed nec lacus massa, ut dignissim elit. Vivamus augue libero, varius dictum pretium quis, auctor eget urna. Donec semper luctus dolor, at dapibus nunc fermentum a.</p>",
+                                                                    "<p>Integer commodo dui id nulla accumsan ullamcorper. Donec eu urna id lorem venenatis vestibulum. Donec nec nisl dolor. Nulla porta condimentum lacus eu adipiscing. Aliquam nec tellus eu lectus ultrices consequat et nec turpis. Suspendisse vehicula porta urna, ac lobortis nisl viverra at. Curabitur ac velit nibh. Mauris molestie, nibh quis vestibulum fringilla, arcu eros hendrerit mi, id tempor odio lacus in quam. Mauris tristique urna eget est condimentum mattis. Sed nec lacus massa, ut dignissim elit. Vivamus augue libero, varius dictum pretium quis, auctor eget urna. Donec semper luctus dolor, at dapibus nunc fermentum a. </p>" };
+
+                        //Enter the dummy data
+                        for (int i = 1; i <= servicesList.ItemCount; i++)
+                        {
+                            SPListItem item = servicesList.GetItemById(i);
+                            item["DetailedDescription"] = DETAILED_DESCRIPTION_SERVICE[i-1];
+                            item.Update();
+                        }
+
+                        servicesList.Update();
+                    }
+                }
+
+                #endregion
+
                 web.AllowUnsafeUpdates = false;
             }
             catch (Exception ex)
@@ -200,7 +232,7 @@ namespace BrickRed.Templates.SmallBusiness.Features.Feature1
             }
         }
 
-     
+
 
         // Uncomment the method below to handle the event raised before a feature is deactivated.
 
