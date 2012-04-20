@@ -85,6 +85,14 @@
     <Compile Include="ControlTemplates\BrickRed.Templates.SmallBusiness\FooterControl.ascx.designer.cs">
       <DependentUpon>FooterControl.ascx.cs</DependentUpon>
     </Compile>
+    <Compile Include="DetailedServicesOffered\DetailedServicesOffered.cs" />
+    <Compile Include="DetailedServicesOffered\DetailedServicesOfferedUserControl.ascx.cs">
+      <DependentUpon>DetailedServicesOfferedUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetailedServicesOffered\DetailedServicesOfferedUserControl.ascx.designer.cs">
+      <DependentUpon>DetailedServicesOfferedUserControl.ascx.cs</DependentUpon>
+    </Compile>
     <Compile Include="EditorParts\ContactUsAddressEditorPart.cs" />
     <Compile Include="Features\Feature1\Feature1.EventReceiver.cs">
       <DependentUpon>Feature1.feature</DependentUpon>
@@ -127,6 +135,10 @@
     </None>
     <None Include="CssClass\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{4fb2f563-573a-48e1-92c3-a7f415b2d06e}</SharePointProjectItemId>
+    </None>
+    <None Include="DetailedServicesOffered\DetailedServicesOffered.webpart" />
+    <None Include="DetailedServicesOffered\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ba3bab6e-7537-4e5e-a98f-10661dd04955}</SharePointProjectItemId>
     </None>
     <None Include="Features\Feature1\Feature1.feature">
       <FeatureId>{3b8c5ebd-819c-41bb-b8dc-d5322aeeed3a}</FeatureId>
@@ -204,6 +216,10 @@
     </Content>
     <Content Include="CssClass\Style Library\en-us\Themable\Core Styles\BrickRed.SmallBusiness.css" />
     <Content Include="CssClass\Elements.xml" />
+    <Content Include="DetailedServicesOffered\DetailedServicesOfferedUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="DetailedServicesOffered\Elements.xml" />
     <Content Include="Features\Feature1\Feature1.Template.xml">
       <DependentUpon>Feature1.feature</DependentUpon>
     </Content>
@@ -235,7 +251,6 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Layouts\1033\BrickRed.SmallBusiness.js" />
-    <Content Include="Layouts\BrickRed.SmallBusiness.css" />
     <Content Include="Layouts\BrickRed.Templates.SmallBusiness\jquery-1.6.2.min.js" />
     <Content Include="LocationWebPart\Elements.xml" />
     <Content Include="LocationWebPart\LocationWebPartUserControl.ascx" />
@@ -255,7 +270,9 @@
     <Content Include="Images\uk.gif" />
     <Content Include="Images\usa.gif" />
     <Content Include="Images\worldwideLocationsMap.jpg" />
-    <Content Include="ServicesOffered\Elements.xml" />
+    <Content Include="ServicesOffered\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="ServicesOffered\Services_img1.jpg" />
     <Content Include="ServicesOffered\Services_img2.jpg" />
     <Content Include="ServicesOffered\Services_img3.jpg" />
