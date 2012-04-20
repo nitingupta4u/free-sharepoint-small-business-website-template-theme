@@ -25,6 +25,9 @@ using System;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
+using System.Web.Script.Serialization;
+using Microsoft.SharePoint;
+using System.Text;
 
 namespace BrickRed.Templates.SmallBusiness.ServicesWebPart
 {
@@ -32,6 +35,57 @@ namespace BrickRed.Templates.SmallBusiness.ServicesWebPart
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            string HtmlContent = string.Empty;
+
+            using (SPSite objSite = new SPSite(SPContext.Current.Site.Url))
+            {
+                using (SPWeb objWeb = objSite.OpenWeb())
+                {
+                    SPList objList = objWeb.Lists.TryGetList("Services");
+
+                    if (objList != null)
+                    {
+                        bool flag = true;
+                        foreach (SPListItem item in objList.Items)
+                        {
+                            HtmlContent = HtmlContent + GetHtmlContent(item,flag);
+                            flag = false;
+                        }
+
+                        HtmlContent += "<div class='caption'><div class='content'></div></div>";
+
+                        string serialize = (new JavaScriptSerializer()).Serialize(HtmlContent);
+                        serialize = serialize.Remove(0, 1);
+                        serialize = serialize.Remove(serialize.LastIndexOf('"'), 1);
+
+                        this.Page.ClientScript.RegisterStartupScript(this.GetType(), "ShowServicesOffered", "ShowServicesSlides('" + serialize + "');", true);
+                    }
+                }
+            }
+        }
+
+        /// <summary>
+        /// Creates the HTML style for the display
+        /// </summary>
+        /// <param name="item"></param>
+        /// <returns></returns>
+        private string GetHtmlContent(SPListItem item, bool flag)
+        {
+            StringBuilder createHtml = new StringBuilder();
+            string imagePath = SPContext.Current.Web.Url + "/Lists/Services/" + item.Name;
+            string Title = item.Title;
+            string Description = string.Empty;
+            try { Description = item["Description"].ToString(); }
+            catch { }
+
+            if (flag)
+                createHtml.Append("<a href=\"services.aspx\" class=\"show\">");
+            else
+                createHtml.Append("<a href=\"services.aspx\">");
+
+            createHtml.Append("<img src=\"" + imagePath + "\" alt=\"" + Title + "\" width=\"325\" height=\"233\" title=\"\" alt=\"\" rel=\"<h3>" + Title + " </h3>" + Description + " \"/></a>");
+
+            return createHtml.ToString();
         }
     }
 }
