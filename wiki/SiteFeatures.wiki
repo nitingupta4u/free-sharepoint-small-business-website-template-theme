@@ -2,7 +2,7 @@
 = Site Features =
 
   * There are 2 features used in this template
-      # *A Site scoped feature* - Query Us !WebPart, Location !WebPart, Services !WebPart, Contact us Address !WebPart.
+      # *A Site scoped feature* - Query Us !WebPart, Location !WebPart, Services !WebPart, Contact us Address !WebPart, Contact Us !WebPart, Detailed Services Offered !WebPart.
       # *A Web scoped feature* - This feature wraps all the other modules (Master Page, Theme, Page Layout Content Type, Internal Pages, Images, Custom page Layout, CSS) and also has a receiver which gets triggered when the feature is activated.
 
   * Both these features are activated automatically when the site is created.
