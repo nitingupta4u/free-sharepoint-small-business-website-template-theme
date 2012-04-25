@@ -12,12 +12,13 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     # *!BrickRed.!SmallBusiness:* The custom content type for page layout
     # *!ContactUsWebPart:* The Query Us !WebPart that is a user can use to send queries to the site administrators.
     # *!LocationWebPart:* The Location !WebPart is for adding the location of the organization on the google map embeded in the site.
-    # *!ServicesWebPart:* The Services !WebPart is for showing the services offered by the organization.
+    # *!ServicesWebPart:* The Services !WebPart is for showing the services offered by the organization on the home page.
     # *!ContactUsAddressWebPart:* The Contact Us Address !WebPart is for showing the organization contact details.
     # *!ControlTemplates:* This folder contains the 2 custom user controls, which are placed in the 14 Hive under the !ControlTemplates folder within Templates.
       * Footer Control
       * Header Contact Us Control
     # *!CssClass:* This module contains the CSS class used in this template and places the same in the Style Library.
+    # *!DetailedServicesOffered:* This !WebPart is for showing the services offered by the organization on the Services page.
     # *Images:* This module contains all the images of the site and places them in the !PublishingImages Library on the site.
     # *!LayoutPages:* This module contains the Home Page and internal pages that are !pre-created when the site is created. It also places these pages in the Pages Library.
     # *Layouts:* This is the 14 hive Layouts folder, which contains the JS files (*!BrickRed.!SmallBusiness.js & jquery-1.6.2.min.js*)
