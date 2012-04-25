@@ -93,7 +93,7 @@ namespace BrickRed.Templates.SmallBusiness.DetailedServicesOffered
                 createHtml.Append("<img src=\"" + imagePath + "\" alt=\"\" width=\"204\" height=\"136\" />");
                 createHtml.Append("</div>");
             }
-            createHtml.Append("<p style=\"font-size:large;margin-top: -5px;\";><b>" + Title + "</b></p>");
+            createHtml.Append("<p style=\"font-size:large;margin-top: 0px;\"><b>" + Title + "</b></p>");
             createHtml.Append("<p>" + DeatailedDesc + "</p>");
             createHtml.Append("</td>");
             createHtml.Append("</tr>");
