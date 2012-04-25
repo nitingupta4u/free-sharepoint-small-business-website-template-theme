@@ -22,5 +22,6 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
     # *Add Configuration Items* to the Configuration List (Footer, Header, Admin mail, Self Mail, Admin Mail subject, Self mail subject)
     # *Set default page layout* of the site to Inner Page (Custom page layout)
     # *Apply custom theme* to the site
+    # *Add Detailed Description column* to the Services Offered list and update items.
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
