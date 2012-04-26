@@ -16,7 +16,10 @@ The following are the identified tasks that an end user or Administration can pe
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifyingImages Modifying Site Logo and other images]
     * This will help the administrator to modify the site logo as well as the all the other images used in the site.
 
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPart Modifying Services Offered images and description]
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPart Modifying Services Offered images and description, shown on home page]
+    * This will help the administrator to configure the Services offered webpart images, title and description.
+
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DetailedServicesWebPartAdmin Modifying Detailed Services Offered images and description, shown on services page]
     * This will help the administrator to configure the Services offered webpart images, title and description.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifyingSiteContent Modifying Site Content]
