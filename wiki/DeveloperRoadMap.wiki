@@ -18,8 +18,11 @@ The following links will help a Developer understand and customize the template.
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/LocationWebpartDev Location Web Part]
     * This explains the configuraation and customization of Location webpart.
 
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPartDev Service offered WebPart (using Picture library)]
-    * This explains the configuraation and customization of Services Offered by the company.
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPartDev Service offered WebPart (using Picture library ,shown on home page)]
+    * This explains the configuration and customization of Services Offered by the company.
+
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DetailedServicesWebPartDev Detailed Service offered WebPart (using Picture library ,shown on Services page)]
+    * This explains the configuration and customization of Services Offered by the company.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ContactUsAddressWebPartDev Contact Us (Address) WebPart]
     * This explains the configuraation and customization of Location details of the organization.
