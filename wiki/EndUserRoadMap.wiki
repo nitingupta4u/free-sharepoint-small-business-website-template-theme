@@ -17,10 +17,10 @@ The following are the identified tasks that an end user or Administration can pe
     * This will help the administrator to modify the site logo as well as the all the other images used in the site.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPart Modifying Services Offered images and description, shown on home page]
-    * This will help the administrator to configure the Services offered webpart images, title and description.
+    * This will help the administrator to configure the Services offered webpart images, title and description on home page.
 
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DetailedServicesWebPartAdmin Modifying Detailed Services Offered images and description, shown on services page]
-    * This will help the administrator to configure the Services offered webpart images, title and description.
+  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DetailedServicesWebPartAdmin Modifying Detailed Services Offered images and description, shown on internal services page]
+    * This will help the administrator to configure the Services offered webpart images, title and description on internal services page.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ModifyingSiteContent Modifying Site Content]
     * This will help the administrator to change the content on the page eg, text written on the About Us page.
@@ -37,11 +37,7 @@ The following are the identified tasks that an end user or Administration can pe
     * Configure Mail templates from Configuration list to send Admin mail or self mails.
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/LocationWebPartAdmin Using Location Web Part to:]
-    * Configure Web Part properties to locate the organization on the google map.
-
-  * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ServicesOfferedWebPart Using Service offered WebPart to:]
-    * Show the Services offered by the organization.
-	* Configure list items to show the the services offered in the webpart.
+    * Configure Web Part properties to locate the organization on the google map. 
 
   * [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/ContactUsAddressWebPart Using Contact Us (Address) WebPart to:]
     * Configure Web Part properties to show the organization contact details.
