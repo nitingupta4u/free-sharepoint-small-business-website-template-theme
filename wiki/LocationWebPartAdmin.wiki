@@ -13,17 +13,25 @@
 = Web Part Properties configurable by Administrator =
 
   * There are 2 properties in this web part that the Site administrator can configure.
-    # *Latitude* - Will be set when the marker position is changed when the page is in edit mode.		
-    # *Longitude* - Will be set when the marker position is changed when the page is in edit mode.	
     # *Title* - Enter the title of the marker to be displayed
     # *Display Address* - Enter the company address to be displayed in the marker description.
 
+= Step by step !WebPart configuration =
+  # *To Edit the Location*
+    # Edit the Page (by clicking Site Action --> Edit Page)
+    # Darg the marker on the map to the desired location
+    # Save the Page
 
+  # * To add the Title and Display Address *
+    # Edit the page
+    # Edit the web part
+    # In the web properties enter the title and display address in the correspoinding textboxes
+	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationProperties.jpg
+
+  * !WebPart in the edit mode will show the current location lattitude and longitude.
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebPartEditMode.jpg<br/>
 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationProperties.jpg<br/>
-
-
+  * Finally web-part will look as shown in the image below
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/LocationWebpart.jpg
 
 ----
