@@ -31,5 +31,11 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 
     * Once the text is entered in the Title and Detailed Description column the webpart will be shown as in the image below
 	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesDetail.jpg
+
+= Configuring the !WebPart properties =
+  # Edit the page (Site Action --> Edit Page)
+  # Edit the !WebPart
+  # Check the check box if want to show the image in the webpart else uncheck it
+  http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesWPProperty.jpg
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
