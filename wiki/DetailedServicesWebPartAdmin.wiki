@@ -28,5 +28,8 @@ http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/
 	* Enter the Title and Detailed Description to be shown in the Webpart corresponding to the image
 http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesProperty.jpg
 
+
+    * Once the text is entered in the Title and Detailed Description column the webpart will be shown as in the image below
+	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesDetail.jpg
 ----
 [http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
