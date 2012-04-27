@@ -1,41 +1,35 @@
-#summary This page guides how to customize Detailed Services Offered WebPart.
+#summary This page guides on how the Detailed Services Offered Web Part works!
 
-= What is Location Web Part =
+= Components =
 
-  * This webpart is used to show the services offered by the organization.
-  * It gives the functionality to configure the webpart from the same list used in the Services Offered webpart (used on home page).
-  * Have the option to show the images or not.
-  * Can also put the Html content in the webpart.
+The following components are part of the Location !WebPart which is used by the organization to show their office loaction on the google map.
 
-= Where Services Web Part is used =
-  * It is used on the default services page of the site.
+== *The actual Web Part* ==
+    * This is a *Visual web part* having a user control which comprises fields to capture the user data
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesSolution.jpg
 
+    * *Services List* of type Picture Library is created for the images to be shown in the webpart with the use of Jquery.
+    * *Title and Detailed Description*, column of the Services List is used to show the Title and Description in the webpart.
 
-= Uploading own images =
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesWebpart.jpg<br/>   
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesProperty.jpg 
 
-  # All the existing services images are kept in the Services library on the site.
-  # Update the description of the services image under the Detailed Description column.
-  # Heading on the image is shown from the Title column in the library.
-  # Any custom images that needs to be used needs to be uploaded in this list. Steps for the same are as below:
-    
-    * Open the site, Click Site Actions > View All Site Content
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ViewAllSiteContent.jpg
-    * Click on Services library
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/ServicesList.jpg<br/>
+    * *Web Part Properties:*
+      * The title and detailed description is shown in the webpart as shown below
+	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesDetail.jpg<br/>
+	  * !WebPart also contains as property weather to show image in the webpart or not.
+	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesWPProperty.jpg<br/>
+ 
 
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedSrevicesListView.jpg  
-    * You can upload your custom images in this library.
-	* Enter the Title and Detailed Description to be shown in the Webpart corresponding to the image
-http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesProperty.jpg
+== *Visual !WebPart* ==
+   * *!DetailedServicesOffered.cs* is the class that contain the properties needed to show the images on the !WebPart.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesWebPart.cs.jpg
 
+   * *!DetailedServicesOfferedUserControl.ascx.cs* is the file that gets the data from the Services List and creates the Html display format
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesOfferedUserControl.ascx.cs.jpg
 
-    * Once the text is entered in the Title and Detailed Description column the webpart will be shown as in the image below
-	http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesDetail.jpg
+   * *!DetailedServicesOfferedUserControl.ascx* is the file that contains the look & feel.
+http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesOfferedUserControl.ascx.jpg
 
-= Configuring the !WebPart properties =
-  # Edit the page (Site Action --> Edit Page)
-  # Edit the !WebPart
-  # Check the check box if want to show the image in the webpart else uncheck it
-  http://free-sharepoint-small-business-website-template-theme.googlecode.com/svn/wiki/Images/DetailedServicesWPProperty.jpg
 ----
-[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/EndUserRoadMap Back to End User RoadMap]
+[http://code.google.com/p/free-sharepoint-small-business-website-template-theme/wiki/DeveloperRoadMap Back to Developers RoadMap]
